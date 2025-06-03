@@ -7,24 +7,27 @@ A comprehensive machine learning system for McLaren price prediction featuring 1
 ## 📁 Project Structure
 
 ```
-car-1/
-├── scraper.py                          # Web scraper for Classic.com McLaren listings
-├── data_process.py                     # Data cleaning and processing pipeline
-├── ml.py                              # Complete ML analysis with 11 algorithms
-├── price_evaluator.py                 # Production-ready price evaluator
-├── holdout_analysis.py                # Generalization testing (hypercar holdout)
-├── quick_demo.py                      # Interactive demo with current/future predictions
-├── mclaren_us_processed_final.csv     # Final cleaned dataset (595 listings)
-├── mclaren_price_evaluator.pkl        # Trained model (5.1MB)
-├── ML_Analysis_Summary.md             # Detailed ML analysis findings
-└── Holdout_Analysis_Summary.md        # Generalization test results
+car/
+├── scrapers/                        # Web scraping utilities
+│   ├── scraper.py                   # Base Classic.com scraper
+│   └── multi_brand_scraper.py       # Scrape all available brands
+├── analysis/                        # Data processing and ML scripts
+│   ├── data_process.py
+│   ├── ml.py
+│   ├── price_evaluator.py
+│   ├── holdout_analysis.py
+│   └── quick_demo.py
+├── data/                            # Collected CSVs and logs
+├── models/                          # Saved models
+├── docs/                            # Analysis summaries and images
+└── requirements.txt
 ```
 
 ## 🚀 Quick Start
 
 ### 1. Run Price Predictions
 ```bash
-python quick_demo.py
+python analysis/quick_demo.py
 ```
 **Features:**
 - Current market value estimates
@@ -35,15 +38,21 @@ python quick_demo.py
 
 ### 2. Test Model Generalization
 ```bash
-python holdout_analysis.py
+python analysis/holdout_analysis.py
 ```
 **Tests:** How well models trained on regular McLarens predict hypercar prices
 
 ### 3. Full ML Analysis
 ```bash
-python ml.py
+python analysis/ml.py
 ```
 **Includes:** All 11 algorithms, feature importance, time series validation
+
+### 4. Multi-Brand Scraping
+```bash
+python scrapers/multi_brand_scraper.py
+```
+**Purpose:** Automatically scrape listings for every brand on Classic.com
 
 ## 📊 Key Results
 

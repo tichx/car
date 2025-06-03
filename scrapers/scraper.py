@@ -14,9 +14,25 @@ import concurrent.futures
 import threading
 from queue import Queue
 
-class McLarenScraper:
-    def __init__(self, base_url="https://www.classic.com"):
+def get_all_brands(base_url="https://www.classic.com"):
+    """Fetch the list of all brands available on Classic.com."""
+    session = requests.Session()
+    session.headers.update({'User-Agent': 'Mozilla/5.0'})
+    url = urljoin(base_url, "/makes/")
+    try:
+        resp = session.get(url, timeout=30)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        brand_links = soup.select('a[href^="/m/"]')
+        brands = sorted({link.get_text(strip=True) for link in brand_links if link.get_text(strip=True)})
+        return brands
+    except Exception:
+        return []
+
+class ClassicComScraper:
+    def __init__(self, brand="McLaren", base_url="https://www.classic.com"):
         self.base_url = base_url
+        self.brand = brand
         self.session = requests.Session()
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -27,7 +43,7 @@ class McLarenScraper:
             level=logging.INFO,
             format='%(asctime)s - %(levelname)s - %(message)s',
             handlers=[
-                logging.FileHandler('mclaren_scraper.log'),
+                logging.FileHandler(f"{self.brand.lower()}_scraper.log"),
                 logging.StreamHandler()
             ]
         )
@@ -90,11 +106,11 @@ class McLarenScraper:
             self.logger.error(f"Request failed for {url}: {e}")
             return None
     
-    def get_search_page(self, query="mclaren", page=1, delay=2):
+    def get_search_page(self, query=None, page=1, delay=2):
         """Fetch a search page with proper error handling"""
         url = f"{self.base_url}/search"
         params = {
-            'q': query,
+            'q': query or self.brand,
             'page': page
         }
         
@@ -150,7 +166,7 @@ class McLarenScraper:
                     listing['model'] = ' '.join(title_parts[2:])
                 except:
                     listing['year'] = None
-                    listing['brand'] = 'McLaren'  # Since we're searching for McLaren
+                    listing['brand'] = self.brand
                     listing['model'] = listing['title']
         
         # Listing URL - from the title link or other links in the container
@@ -357,7 +373,7 @@ class McLarenScraper:
         
         return batch_listings
     
-    def scrape_all_mclaren_listings_parallel(self, max_pages=100, delay_range=(2, 5), max_workers=3):
+    def scrape_all_listings_parallel(self, max_pages=100, delay_range=(2, 5), max_workers=3):
         """Main scraping function with safe parallelization"""
         
         # CRITICAL: Check robots.txt first
@@ -369,7 +385,7 @@ class McLarenScraper:
             return None
         
         print(f"\n✅ Robots.txt compliance check passed. Minimum delay: {min_delay}s")
-        print("🚀 Starting parallel McLaren data extraction...")
+        print(f"🚀 Starting parallel {self.brand} data extraction...")
         
         delay_min, delay_max = delay_range
         if delay_min < min_delay:
@@ -553,7 +569,7 @@ class McLarenScraper:
         
         if not filename:
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = f"mclaren_listings_enhanced_{timestamp}.csv"
+            filename = f"{self.brand.lower()}_listings_enhanced_{timestamp}.csv"
         
         # Define the required columns in a specific order
         required_columns = [
@@ -585,10 +601,10 @@ class McLarenScraper:
             return None
     
     def generate_synthetic_data(self, count=2380):
-        """Generate synthetic McLaren data for testing purposes"""
-        print("\n🧪 Generating synthetic McLaren data for testing...")
+        """Generate synthetic data for testing purposes"""
+        print(f"\n🧪 Generating synthetic {self.brand} data for testing...")
         
-        mclaren_models = [
+        sample_models = [
             'F1', 'F1 LM', 'F1 GT', 'P1', 'P1 GTR', '720S', '720S Spider',
             '750S', '750S Spider', 'Artura', '600LT', '600LT Spider',
             '570S', '570GT', '650S', '650S Spider', 'MP4-12C', 'Senna',
@@ -607,7 +623,7 @@ class McLarenScraper:
         ]
         
         for i in range(count):
-            model = random.choice(mclaren_models)
+            model = random.choice(sample_models)
             year = random.randint(1994, 2024)
             
             # Price based on model and year
@@ -622,16 +638,16 @@ class McLarenScraper:
             price = int(base_price * age_factor * random.uniform(0.8, 1.3))
             
             listing = {
-                'brand': 'McLaren',
+                'brand': self.brand,
                 'model': model,
                 'year': year,
-                'title': f"{year} McLaren {model}",
+                'title': f"{year} {self.brand} {model}",
                 'price': f"${price:,}",
                 'mileage': f"{random.randint(100, 50000):,} mi",
                 'location': random.choice(locations),
                 'country_code': random.choice(['US', 'UK', 'CA', 'DE', 'JP']),
                 'state': random.choice(['CA', 'FL', 'NY', 'TX', None, None]),
-                'listing_url': f"https://www.classic.com/veh/{year}-mclaren-{model.lower().replace(' ', '-')}-{random.randint(100000, 999999)}",
+                'listing_url': f"https://www.classic.com/veh/{year}-{self.brand.lower()}-{model.lower().replace(' ', '-')}-{random.randint(100000, 999999)}",
                 'engine': f"{random.choice(['3.8L V8 Twin Turbo', '4.0L V8 Twin Turbo', '6.1L V12'])}",
                 'transmission': random.choice(['7-Speed DCT', '6-Speed Manual', '8-Speed DCT']),
                 'sold': random.choice(['y', 'n']),
@@ -639,7 +655,7 @@ class McLarenScraper:
                 'seller_name': random.choice(sellers),
                 'seller_url': f"https://www.classic.com/s/{random.choice(sellers).lower().replace(' ', '-')}-{random.randint(1000, 9999)}/",
                 'seller_verified': random.choice(['y', 'n']),
-                'image_url': f"https://images.classic.com/vehicles/mclaren-{random.randint(1, 100)}.jpg",
+                'image_url': f"https://images.classic.com/vehicles/{self.brand.lower()}-{random.randint(1, 100)}.jpg",
                 'page_number': (i // 20) + 1,
                 'listing_index': i % 20,
                 'scraped_at': datetime.now().isoformat()
@@ -647,12 +663,12 @@ class McLarenScraper:
             
             self.listings.append(listing)
         
-        print(f"✅ Generated {count} synthetic McLaren listings")
+        print(f"✅ Generated {count} synthetic {self.brand} listings")
         return self.listings
 
 def main():
     """Main execution function"""
-    print("🏎️  Enhanced McLaren Data Extractor for Classic.com")
+    print("🏎️  Enhanced Classic.com Data Extractor")
     print("=" * 60)
     
     # Important disclaimer
@@ -664,13 +680,14 @@ def main():
     print("4. Use responsibly with appropriate delays")
     
     print("\n🔍 Starting enhanced parallel data extraction...")
-    
-    scraper = McLarenScraper()
-    
+
+    brand = input("Enter brand to scrape (default McLaren): ").strip() or "McLaren"
+    scraper = ClassicComScraper(brand=brand)
+
     # Real scraping with parallelization
-    listings = scraper.scrape_all_mclaren_listings_parallel(
-        max_pages=100, 
-        delay_range=(3, 6), 
+    listings = scraper.scrape_all_listings_parallel(
+        max_pages=100,
+        delay_range=(3, 6),
         max_workers=3
     )
     
@@ -681,7 +698,7 @@ def main():
         # Save to CSV
         filename = scraper.save_to_csv()
         if filename:
-            print(f"\n🎉 Success! Enhanced McLaren data saved to: {filename}")
+            print(f"\n🎉 Success! Enhanced {brand} data saved to: {filename}")
         else:
             print("\n❌ Error saving data to CSV")
     else:
