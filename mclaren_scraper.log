@@ -1,0 +1,1137 @@
+2025-06-01 19:08:00,365 - INFO - Robots.txt check: Can fetch search page: True
+2025-06-01 19:08:00,366 - INFO - Processing page 1
+2025-06-01 19:08:00,608 - INFO - Successfully fetched page 1
+2025-06-01 19:08:00,721 - WARNING - No listings found on page 1
+2025-06-01 19:08:00,787 - INFO - Waiting 4.6 seconds before next request
+2025-06-01 19:08:05,358 - INFO - Processing page 2
+2025-06-01 19:08:06,114 - INFO - Successfully fetched page 2
+2025-06-01 19:08:06,257 - WARNING - No listings found on page 2
+2025-06-01 19:08:06,257 - INFO - Waiting 3.0 seconds before next request
+2025-06-01 19:08:09,278 - INFO - Processing page 3
+2025-06-01 19:08:10,326 - INFO - Successfully fetched page 3
+2025-06-01 19:08:10,452 - WARNING - No listings found on page 3
+2025-06-01 19:08:10,452 - INFO - Waiting 3.1 seconds before next request
+2025-06-01 19:10:22,315 - INFO - Robots.txt check: Can fetch search page: True
+2025-06-01 19:10:22,316 - INFO - Processing page 1
+2025-06-01 19:10:23,722 - INFO - Successfully fetched page 1
+2025-06-01 19:10:23,776 - INFO - Found 24 potential listing containers on page 1
+2025-06-01 19:10:23,790 - INFO - Extracted 24 listings from page 1
+2025-06-01 19:10:23,833 - INFO - Detected 100 total pages
+2025-06-01 19:10:23,833 - INFO - Waiting 6.0 seconds before next request
+2025-06-01 19:10:29,825 - INFO - Processing page 2
+2025-06-01 19:10:30,628 - INFO - Successfully fetched page 2
+2025-06-01 19:10:30,693 - INFO - Found 24 potential listing containers on page 2
+2025-06-01 19:10:30,705 - INFO - Extracted 24 listings from page 2
+2025-06-01 19:10:30,705 - INFO - Waiting 4.3 seconds before next request
+2025-06-01 19:10:35,046 - INFO - Processing page 3
+2025-06-01 19:10:35,630 - INFO - Successfully fetched page 3
+2025-06-01 19:10:35,676 - INFO - Found 24 potential listing containers on page 3
+2025-06-01 19:10:35,690 - INFO - Extracted 24 listings from page 3
+2025-06-01 19:10:35,690 - INFO - Waiting 5.6 seconds before next request
+2025-06-01 19:10:41,335 - INFO - Processing page 4
+2025-06-01 19:10:42,042 - INFO - Successfully fetched page 4
+2025-06-01 19:10:42,092 - INFO - Found 24 potential listing containers on page 4
+2025-06-01 19:10:42,106 - INFO - Extracted 24 listings from page 4
+2025-06-01 19:10:42,106 - INFO - Waiting 4.0 seconds before next request
+2025-06-01 19:10:46,095 - INFO - Processing page 5
+2025-06-01 19:10:47,215 - INFO - Successfully fetched page 5
+2025-06-01 19:10:47,263 - INFO - Found 24 potential listing containers on page 5
+2025-06-01 19:10:47,275 - INFO - Extracted 24 listings from page 5
+2025-06-01 19:10:47,275 - INFO - Waiting 5.8 seconds before next request
+2025-06-01 19:10:53,126 - INFO - Processing page 6
+2025-06-01 19:10:53,744 - INFO - Successfully fetched page 6
+2025-06-01 19:10:53,796 - INFO - Found 24 potential listing containers on page 6
+2025-06-01 19:10:53,811 - INFO - Extracted 24 listings from page 6
+2025-06-01 19:10:53,811 - INFO - Waiting 5.9 seconds before next request
+2025-06-01 19:10:59,719 - INFO - Processing page 7
+2025-06-01 19:11:00,181 - INFO - Successfully fetched page 7
+2025-06-01 19:11:00,272 - INFO - Found 24 potential listing containers on page 7
+2025-06-01 19:11:00,283 - INFO - Extracted 24 listings from page 7
+2025-06-01 19:11:00,283 - INFO - Waiting 4.5 seconds before next request
+2025-06-01 19:11:04,813 - INFO - Processing page 8
+2025-06-01 19:11:05,748 - INFO - Successfully fetched page 8
+2025-06-01 19:11:05,802 - INFO - Found 24 potential listing containers on page 8
+2025-06-01 19:11:05,816 - INFO - Extracted 24 listings from page 8
+2025-06-01 19:11:05,816 - INFO - Waiting 5.7 seconds before next request
+2025-06-01 19:11:11,550 - INFO - Processing page 9
+2025-06-01 19:11:12,272 - INFO - Successfully fetched page 9
+2025-06-01 19:11:12,323 - INFO - Found 24 potential listing containers on page 9
+2025-06-01 19:11:12,336 - INFO - Extracted 24 listings from page 9
+2025-06-01 19:11:12,337 - INFO - Waiting 3.0 seconds before next request
+2025-06-01 19:11:15,354 - INFO - Processing page 10
+2025-06-01 19:11:15,986 - INFO - Successfully fetched page 10
+2025-06-01 19:11:16,041 - INFO - Found 24 potential listing containers on page 10
+2025-06-01 19:11:16,055 - INFO - Extracted 24 listings from page 10
+2025-06-01 19:11:16,055 - INFO - Waiting 3.3 seconds before next request
+2025-06-01 19:11:19,389 - INFO - Processing page 11
+2025-06-01 19:11:20,014 - INFO - Successfully fetched page 11
+2025-06-01 19:11:20,068 - INFO - Found 24 potential listing containers on page 11
+2025-06-01 19:11:20,082 - INFO - Extracted 24 listings from page 11
+2025-06-01 19:11:20,082 - INFO - Waiting 6.0 seconds before next request
+2025-06-01 19:11:26,038 - INFO - Processing page 12
+2025-06-01 19:11:26,754 - INFO - Successfully fetched page 12
+2025-06-01 19:11:26,823 - INFO - Found 24 potential listing containers on page 12
+2025-06-01 19:11:26,834 - INFO - Extracted 24 listings from page 12
+2025-06-01 19:11:26,835 - INFO - Waiting 4.2 seconds before next request
+2025-06-01 19:11:31,041 - INFO - Processing page 13
+2025-06-01 19:11:31,840 - INFO - Successfully fetched page 13
+2025-06-01 19:11:31,894 - INFO - Found 24 potential listing containers on page 13
+2025-06-01 19:11:31,909 - INFO - Extracted 24 listings from page 13
+2025-06-01 19:11:31,909 - INFO - Waiting 5.8 seconds before next request
+2025-06-01 19:11:37,764 - INFO - Processing page 14
+2025-06-01 19:11:38,327 - INFO - Successfully fetched page 14
+2025-06-01 19:11:38,385 - INFO - Found 24 potential listing containers on page 14
+2025-06-01 19:11:38,399 - INFO - Extracted 24 listings from page 14
+2025-06-01 19:11:38,399 - INFO - Waiting 3.2 seconds before next request
+2025-06-01 19:11:41,582 - INFO - Processing page 15
+2025-06-01 19:11:42,245 - INFO - Successfully fetched page 15
+2025-06-01 19:11:42,297 - INFO - Found 24 potential listing containers on page 15
+2025-06-01 19:11:42,311 - INFO - Extracted 24 listings from page 15
+2025-06-01 19:11:42,311 - INFO - Waiting 5.8 seconds before next request
+2025-06-01 19:11:48,075 - INFO - Processing page 16
+2025-06-01 19:11:48,706 - INFO - Successfully fetched page 16
+2025-06-01 19:11:48,760 - INFO - Found 24 potential listing containers on page 16
+2025-06-01 19:11:48,774 - INFO - Extracted 24 listings from page 16
+2025-06-01 19:11:48,774 - INFO - Waiting 4.5 seconds before next request
+2025-06-01 19:11:53,295 - INFO - Processing page 17
+2025-06-01 19:11:53,827 - INFO - Successfully fetched page 17
+2025-06-01 19:11:53,908 - INFO - Found 24 potential listing containers on page 17
+2025-06-01 19:11:53,921 - INFO - Extracted 24 listings from page 17
+2025-06-01 19:11:53,921 - INFO - Waiting 5.4 seconds before next request
+2025-06-01 19:11:59,354 - INFO - Processing page 18
+2025-06-01 19:12:00,035 - INFO - Successfully fetched page 18
+2025-06-01 19:12:00,085 - INFO - Found 24 potential listing containers on page 18
+2025-06-01 19:12:00,099 - INFO - Extracted 24 listings from page 18
+2025-06-01 19:12:00,099 - INFO - Waiting 3.3 seconds before next request
+2025-06-01 19:12:03,435 - INFO - Processing page 19
+2025-06-01 19:12:04,314 - INFO - Successfully fetched page 19
+2025-06-01 19:12:04,363 - INFO - Found 24 potential listing containers on page 19
+2025-06-01 19:12:04,378 - INFO - Extracted 24 listings from page 19
+2025-06-01 19:12:04,378 - INFO - Waiting 5.7 seconds before next request
+2025-06-01 19:12:10,062 - INFO - Processing page 20
+2025-06-01 19:12:10,779 - INFO - Successfully fetched page 20
+2025-06-01 19:12:10,827 - INFO - Found 24 potential listing containers on page 20
+2025-06-01 19:12:10,842 - INFO - Extracted 24 listings from page 20
+2025-06-01 19:12:10,842 - INFO - Waiting 5.7 seconds before next request
+2025-06-01 19:12:16,551 - INFO - Processing page 21
+2025-06-01 19:12:17,216 - INFO - Successfully fetched page 21
+2025-06-01 19:12:17,267 - INFO - Found 24 potential listing containers on page 21
+2025-06-01 19:12:17,281 - INFO - Extracted 24 listings from page 21
+2025-06-01 19:12:17,281 - INFO - Waiting 3.2 seconds before next request
+2025-06-01 19:12:20,454 - INFO - Processing page 22
+2025-06-01 19:12:21,408 - INFO - Successfully fetched page 22
+2025-06-01 19:12:21,494 - INFO - Found 24 potential listing containers on page 22
+2025-06-01 19:12:21,507 - INFO - Extracted 24 listings from page 22
+2025-06-01 19:12:21,507 - INFO - Waiting 4.5 seconds before next request
+2025-06-01 19:12:26,043 - INFO - Processing page 23
+2025-06-01 19:12:26,562 - INFO - Successfully fetched page 23
+2025-06-01 19:12:26,618 - INFO - Found 24 potential listing containers on page 23
+2025-06-01 19:12:26,632 - INFO - Extracted 24 listings from page 23
+2025-06-01 19:12:26,632 - INFO - Waiting 3.6 seconds before next request
+2025-06-01 19:12:30,223 - INFO - Processing page 24
+2025-06-01 19:12:30,649 - INFO - Successfully fetched page 24
+2025-06-01 19:12:30,703 - INFO - Found 24 potential listing containers on page 24
+2025-06-01 19:12:30,717 - INFO - Extracted 24 listings from page 24
+2025-06-01 19:12:30,717 - INFO - Waiting 4.9 seconds before next request
+2025-06-01 19:12:35,572 - INFO - Processing page 25
+2025-06-01 19:12:36,003 - INFO - Successfully fetched page 25
+2025-06-01 19:12:36,057 - INFO - Found 24 potential listing containers on page 25
+2025-06-01 19:12:36,071 - INFO - Extracted 24 listings from page 25
+2025-06-01 19:12:36,072 - INFO - Waiting 4.0 seconds before next request
+2025-06-01 19:12:40,111 - INFO - Processing page 26
+2025-06-01 19:12:40,590 - INFO - Successfully fetched page 26
+2025-06-01 19:12:40,675 - INFO - Found 24 potential listing containers on page 26
+2025-06-01 19:12:40,687 - INFO - Extracted 24 listings from page 26
+2025-06-01 19:12:40,687 - INFO - Waiting 5.4 seconds before next request
+2025-06-01 19:12:46,086 - INFO - Processing page 27
+2025-06-01 19:12:46,632 - INFO - Successfully fetched page 27
+2025-06-01 19:12:46,683 - INFO - Found 24 potential listing containers on page 27
+2025-06-01 19:12:46,697 - INFO - Extracted 24 listings from page 27
+2025-06-01 19:12:46,697 - INFO - Waiting 4.2 seconds before next request
+2025-06-01 19:12:50,924 - INFO - Processing page 28
+2025-06-01 19:12:51,496 - INFO - Successfully fetched page 28
+2025-06-01 19:12:51,544 - INFO - Found 24 potential listing containers on page 28
+2025-06-01 19:12:51,558 - INFO - Extracted 24 listings from page 28
+2025-06-01 19:12:51,558 - INFO - Waiting 5.8 seconds before next request
+2025-06-01 19:12:57,313 - INFO - Processing page 29
+2025-06-01 19:12:57,837 - INFO - Successfully fetched page 29
+2025-06-01 19:12:57,873 - INFO - Found 24 potential listing containers on page 29
+2025-06-01 19:12:57,884 - INFO - Extracted 24 listings from page 29
+2025-06-01 19:12:57,884 - INFO - Waiting 3.3 seconds before next request
+2025-06-01 19:13:01,219 - INFO - Processing page 30
+2025-06-01 19:13:01,684 - INFO - Successfully fetched page 30
+2025-06-01 19:13:01,737 - INFO - Found 24 potential listing containers on page 30
+2025-06-01 19:13:01,750 - INFO - Extracted 24 listings from page 30
+2025-06-01 19:13:01,750 - INFO - Waiting 5.4 seconds before next request
+2025-06-01 19:13:07,123 - INFO - Processing page 31
+2025-06-01 19:13:07,440 - INFO - Successfully fetched page 31
+2025-06-01 19:13:07,527 - INFO - Found 24 potential listing containers on page 31
+2025-06-01 19:13:07,539 - INFO - Extracted 24 listings from page 31
+2025-06-01 19:13:07,539 - INFO - Waiting 4.0 seconds before next request
+2025-06-01 19:13:11,541 - INFO - Processing page 32
+2025-06-01 19:13:11,961 - INFO - Successfully fetched page 32
+2025-06-01 19:13:12,011 - INFO - Found 24 potential listing containers on page 32
+2025-06-01 19:13:12,025 - INFO - Extracted 24 listings from page 32
+2025-06-01 19:13:12,025 - INFO - Waiting 4.8 seconds before next request
+2025-06-01 19:13:16,822 - INFO - Processing page 33
+2025-06-01 19:13:17,453 - INFO - Successfully fetched page 33
+2025-06-01 19:13:17,503 - INFO - Found 24 potential listing containers on page 33
+2025-06-01 19:13:17,516 - INFO - Extracted 24 listings from page 33
+2025-06-01 19:13:17,517 - INFO - Waiting 4.9 seconds before next request
+2025-06-01 19:13:22,411 - INFO - Processing page 34
+2025-06-01 19:13:23,495 - INFO - Successfully fetched page 34
+2025-06-01 19:13:23,543 - INFO - Found 24 potential listing containers on page 34
+2025-06-01 19:13:23,556 - INFO - Extracted 24 listings from page 34
+2025-06-01 19:13:23,556 - INFO - Waiting 3.3 seconds before next request
+2025-06-01 19:13:26,855 - INFO - Processing page 35
+2025-06-01 19:13:27,665 - INFO - Successfully fetched page 35
+2025-06-01 19:13:27,718 - INFO - Found 24 potential listing containers on page 35
+2025-06-01 19:13:27,732 - INFO - Extracted 24 listings from page 35
+2025-06-01 19:13:27,732 - INFO - Waiting 3.4 seconds before next request
+2025-06-01 19:13:31,138 - INFO - Processing page 36
+2025-06-01 19:13:31,936 - INFO - Successfully fetched page 36
+2025-06-01 19:13:32,021 - INFO - Found 24 potential listing containers on page 36
+2025-06-01 19:13:32,034 - INFO - Extracted 24 listings from page 36
+2025-06-01 19:13:32,034 - INFO - Waiting 4.7 seconds before next request
+2025-06-01 19:13:36,737 - INFO - Processing page 37
+2025-06-01 19:13:38,345 - INFO - Successfully fetched page 37
+2025-06-01 19:13:38,395 - INFO - Found 24 potential listing containers on page 37
+2025-06-01 19:13:38,410 - INFO - Extracted 24 listings from page 37
+2025-06-01 19:13:38,410 - INFO - Waiting 3.5 seconds before next request
+2025-06-01 19:13:41,910 - INFO - Processing page 38
+2025-06-01 19:13:42,321 - INFO - Successfully fetched page 38
+2025-06-01 19:13:42,367 - INFO - Found 24 potential listing containers on page 38
+2025-06-01 19:13:42,381 - INFO - Extracted 24 listings from page 38
+2025-06-01 19:13:42,381 - INFO - Waiting 3.4 seconds before next request
+2025-06-01 19:13:45,767 - INFO - Processing page 39
+2025-06-01 19:13:46,214 - INFO - Successfully fetched page 39
+2025-06-01 19:13:46,270 - INFO - Found 24 potential listing containers on page 39
+2025-06-01 19:13:46,284 - INFO - Extracted 24 listings from page 39
+2025-06-01 19:13:46,284 - INFO - Waiting 4.3 seconds before next request
+2025-06-01 19:13:50,577 - INFO - Processing page 40
+2025-06-01 19:13:51,357 - INFO - Successfully fetched page 40
+2025-06-01 19:13:51,407 - INFO - Found 24 potential listing containers on page 40
+2025-06-01 19:13:51,420 - INFO - Extracted 24 listings from page 40
+2025-06-01 19:13:51,420 - INFO - Waiting 5.5 seconds before next request
+2025-06-01 19:13:56,902 - INFO - Processing page 41
+2025-06-01 19:13:57,351 - INFO - Successfully fetched page 41
+2025-06-01 19:13:57,435 - INFO - Found 24 potential listing containers on page 41
+2025-06-01 19:13:57,446 - INFO - Extracted 24 listings from page 41
+2025-06-01 19:13:57,446 - INFO - Waiting 6.0 seconds before next request
+2025-06-01 19:14:03,437 - INFO - Processing page 42
+2025-06-01 19:14:03,962 - INFO - Successfully fetched page 42
+2025-06-01 19:14:04,011 - INFO - Found 24 potential listing containers on page 42
+2025-06-01 19:14:04,025 - INFO - Extracted 24 listings from page 42
+2025-06-01 19:14:04,025 - INFO - Waiting 5.8 seconds before next request
+2025-06-01 19:14:09,820 - INFO - Processing page 43
+2025-06-01 19:14:10,603 - INFO - Successfully fetched page 43
+2025-06-01 19:14:10,652 - INFO - Found 24 potential listing containers on page 43
+2025-06-01 19:14:10,666 - INFO - Extracted 24 listings from page 43
+2025-06-01 19:14:10,666 - INFO - Waiting 5.5 seconds before next request
+2025-06-01 19:14:16,205 - INFO - Processing page 44
+2025-06-01 19:14:17,075 - INFO - Successfully fetched page 44
+2025-06-01 19:14:17,124 - INFO - Found 24 potential listing containers on page 44
+2025-06-01 19:14:17,138 - INFO - Extracted 24 listings from page 44
+2025-06-01 19:14:17,138 - INFO - Waiting 3.3 seconds before next request
+2025-06-01 19:14:20,469 - INFO - Processing page 45
+2025-06-01 19:14:21,115 - INFO - Successfully fetched page 45
+2025-06-01 19:14:21,164 - INFO - Found 24 potential listing containers on page 45
+2025-06-01 19:14:21,178 - INFO - Extracted 24 listings from page 45
+2025-06-01 19:14:21,178 - INFO - Waiting 5.0 seconds before next request
+2025-06-01 19:14:26,141 - INFO - Processing page 46
+2025-06-01 19:14:26,951 - INFO - Successfully fetched page 46
+2025-06-01 19:14:27,039 - INFO - Found 24 potential listing containers on page 46
+2025-06-01 19:14:27,051 - INFO - Extracted 24 listings from page 46
+2025-06-01 19:14:27,051 - INFO - Waiting 4.9 seconds before next request
+2025-06-01 19:14:31,919 - INFO - Processing page 47
+2025-06-01 19:14:32,253 - INFO - Successfully fetched page 47
+2025-06-01 19:14:32,308 - INFO - Found 24 potential listing containers on page 47
+2025-06-01 19:14:32,323 - INFO - Extracted 24 listings from page 47
+2025-06-01 19:14:32,323 - INFO - Waiting 4.2 seconds before next request
+2025-06-01 19:14:36,537 - INFO - Processing page 48
+2025-06-01 19:14:37,430 - INFO - Successfully fetched page 48
+2025-06-01 19:14:37,478 - INFO - Found 24 potential listing containers on page 48
+2025-06-01 19:14:37,492 - INFO - Extracted 24 listings from page 48
+2025-06-01 19:14:37,492 - INFO - Waiting 4.2 seconds before next request
+2025-06-01 19:14:41,649 - INFO - Processing page 49
+2025-06-01 19:14:42,039 - INFO - Successfully fetched page 49
+2025-06-01 19:14:42,093 - INFO - Found 24 potential listing containers on page 49
+2025-06-01 19:14:42,108 - INFO - Extracted 24 listings from page 49
+2025-06-01 19:14:42,108 - INFO - Waiting 4.0 seconds before next request
+2025-06-01 19:14:46,159 - INFO - Processing page 50
+2025-06-01 19:14:47,055 - INFO - Successfully fetched page 50
+2025-06-01 19:14:47,105 - INFO - Found 24 potential listing containers on page 50
+2025-06-01 19:14:47,119 - INFO - Extracted 24 listings from page 50
+2025-06-01 19:14:47,119 - INFO - Waiting 4.6 seconds before next request
+2025-06-01 19:14:51,724 - INFO - Processing page 51
+2025-06-01 19:14:53,098 - INFO - Successfully fetched page 51
+2025-06-01 19:14:53,184 - INFO - Found 24 potential listing containers on page 51
+2025-06-01 19:14:53,196 - INFO - Extracted 24 listings from page 51
+2025-06-01 19:14:53,196 - INFO - Waiting 3.8 seconds before next request
+2025-06-01 19:14:57,006 - INFO - Processing page 52
+2025-06-01 19:14:57,500 - INFO - Successfully fetched page 52
+2025-06-01 19:14:57,549 - INFO - Found 24 potential listing containers on page 52
+2025-06-01 19:14:57,563 - INFO - Extracted 24 listings from page 52
+2025-06-01 19:14:57,563 - INFO - Waiting 5.8 seconds before next request
+2025-06-01 19:15:03,393 - INFO - Processing page 53
+2025-06-01 19:15:03,931 - INFO - Successfully fetched page 53
+2025-06-01 19:15:03,985 - INFO - Found 24 potential listing containers on page 53
+2025-06-01 19:15:03,999 - INFO - Extracted 24 listings from page 53
+2025-06-01 19:15:03,999 - INFO - Waiting 5.0 seconds before next request
+2025-06-01 19:15:08,970 - INFO - Processing page 54
+2025-06-01 19:15:09,539 - INFO - Successfully fetched page 54
+2025-06-01 19:15:09,593 - INFO - Found 24 potential listing containers on page 54
+2025-06-01 19:15:09,606 - INFO - Extracted 24 listings from page 54
+2025-06-01 19:15:09,606 - INFO - Waiting 5.2 seconds before next request
+2025-06-01 19:15:14,833 - INFO - Processing page 55
+2025-06-01 19:15:15,421 - INFO - Successfully fetched page 55
+2025-06-01 19:15:15,469 - INFO - Found 24 potential listing containers on page 55
+2025-06-01 19:15:15,483 - INFO - Extracted 24 listings from page 55
+2025-06-01 19:15:15,484 - INFO - Waiting 5.5 seconds before next request
+2025-06-01 19:15:20,939 - INFO - Processing page 56
+2025-06-01 19:15:22,179 - INFO - Successfully fetched page 56
+2025-06-01 19:15:22,265 - INFO - Found 24 potential listing containers on page 56
+2025-06-01 19:15:22,276 - INFO - Extracted 24 listings from page 56
+2025-06-01 19:15:22,276 - INFO - Waiting 3.2 seconds before next request
+2025-06-01 19:15:25,467 - INFO - Processing page 57
+2025-06-01 19:15:25,884 - INFO - Successfully fetched page 57
+2025-06-01 19:15:25,938 - INFO - Found 24 potential listing containers on page 57
+2025-06-01 19:15:25,950 - INFO - Extracted 24 listings from page 57
+2025-06-01 19:15:25,951 - INFO - Waiting 4.2 seconds before next request
+2025-06-01 19:15:30,170 - INFO - Processing page 58
+2025-06-01 19:15:31,329 - INFO - Successfully fetched page 58
+2025-06-01 19:15:31,379 - INFO - Found 24 potential listing containers on page 58
+2025-06-01 19:15:31,393 - INFO - Extracted 24 listings from page 58
+2025-06-01 19:15:31,393 - INFO - Waiting 3.3 seconds before next request
+2025-06-01 19:15:34,724 - INFO - Processing page 59
+2025-06-01 19:15:35,287 - INFO - Successfully fetched page 59
+2025-06-01 19:15:35,333 - INFO - Found 24 potential listing containers on page 59
+2025-06-01 19:15:35,346 - INFO - Extracted 24 listings from page 59
+2025-06-01 19:15:35,346 - INFO - Waiting 5.4 seconds before next request
+2025-06-01 19:15:40,747 - INFO - Processing page 60
+2025-06-01 19:15:41,686 - INFO - Successfully fetched page 60
+2025-06-01 19:15:41,741 - INFO - Found 24 potential listing containers on page 60
+2025-06-01 19:15:41,756 - INFO - Extracted 24 listings from page 60
+2025-06-01 19:15:41,756 - INFO - Waiting 4.7 seconds before next request
+2025-06-01 19:15:46,436 - INFO - Processing page 61
+2025-06-01 19:15:46,835 - INFO - Successfully fetched page 61
+2025-06-01 19:15:46,918 - INFO - Found 24 potential listing containers on page 61
+2025-06-01 19:15:46,930 - INFO - Extracted 24 listings from page 61
+2025-06-01 19:15:46,930 - INFO - Waiting 5.8 seconds before next request
+2025-06-01 19:15:52,688 - INFO - Processing page 62
+2025-06-01 19:15:55,481 - INFO - Successfully fetched page 62
+2025-06-01 19:15:55,530 - INFO - Found 24 potential listing containers on page 62
+2025-06-01 19:15:55,543 - INFO - Extracted 24 listings from page 62
+2025-06-01 19:15:55,543 - INFO - Waiting 3.3 seconds before next request
+2025-06-01 19:15:58,806 - INFO - Processing page 63
+2025-06-01 19:15:59,965 - INFO - Successfully fetched page 63
+2025-06-01 19:16:00,014 - INFO - Found 24 potential listing containers on page 63
+2025-06-01 19:16:00,028 - INFO - Extracted 24 listings from page 63
+2025-06-01 19:16:00,029 - INFO - Waiting 4.9 seconds before next request
+2025-06-01 19:16:04,958 - INFO - Processing page 64
+2025-06-01 19:16:06,213 - INFO - Successfully fetched page 64
+2025-06-01 19:16:06,265 - INFO - Found 24 potential listing containers on page 64
+2025-06-01 19:16:06,279 - INFO - Extracted 24 listings from page 64
+2025-06-01 19:16:06,280 - INFO - Waiting 3.3 seconds before next request
+2025-06-01 19:16:09,578 - INFO - Processing page 65
+2025-06-01 19:16:10,851 - INFO - Successfully fetched page 65
+2025-06-01 19:16:10,937 - INFO - Found 24 potential listing containers on page 65
+2025-06-01 19:16:10,949 - INFO - Extracted 24 listings from page 65
+2025-06-01 19:16:10,950 - INFO - Waiting 5.5 seconds before next request
+2025-06-01 19:16:16,406 - INFO - Processing page 66
+2025-06-01 19:16:18,400 - INFO - Successfully fetched page 66
+2025-06-01 19:16:18,439 - INFO - Found 24 potential listing containers on page 66
+2025-06-01 19:16:18,450 - INFO - Extracted 24 listings from page 66
+2025-06-01 19:16:18,450 - INFO - Waiting 5.4 seconds before next request
+2025-06-01 19:16:23,879 - INFO - Processing page 67
+2025-06-01 19:16:25,039 - INFO - Successfully fetched page 67
+2025-06-01 19:16:25,092 - INFO - Found 24 potential listing containers on page 67
+2025-06-01 19:16:25,106 - INFO - Extracted 24 listings from page 67
+2025-06-01 19:16:25,106 - INFO - Waiting 3.3 seconds before next request
+2025-06-01 19:16:28,405 - INFO - Processing page 68
+2025-06-01 19:16:31,466 - INFO - Successfully fetched page 68
+2025-06-01 19:16:31,515 - INFO - Found 24 potential listing containers on page 68
+2025-06-01 19:16:31,529 - INFO - Extracted 24 listings from page 68
+2025-06-01 19:16:31,529 - INFO - Waiting 4.6 seconds before next request
+2025-06-01 19:16:36,094 - INFO - Processing page 69
+2025-06-01 19:16:37,116 - INFO - Successfully fetched page 69
+2025-06-01 19:16:37,162 - INFO - Found 24 potential listing containers on page 69
+2025-06-01 19:16:37,173 - INFO - Extracted 24 listings from page 69
+2025-06-01 19:16:37,173 - INFO - Waiting 5.5 seconds before next request
+2025-06-01 19:16:42,630 - INFO - Processing page 70
+2025-06-01 19:16:43,003 - INFO - Successfully fetched page 70
+2025-06-01 19:16:43,099 - INFO - Found 24 potential listing containers on page 70
+2025-06-01 19:16:43,110 - INFO - Extracted 24 listings from page 70
+2025-06-01 19:16:43,110 - INFO - Waiting 5.9 seconds before next request
+2025-06-01 19:16:48,996 - INFO - Processing page 71
+2025-06-01 19:16:49,502 - INFO - Successfully fetched page 71
+2025-06-01 19:16:49,549 - INFO - Found 24 potential listing containers on page 71
+2025-06-01 19:16:49,563 - INFO - Extracted 24 listings from page 71
+2025-06-01 19:16:49,563 - INFO - Waiting 6.0 seconds before next request
+2025-06-01 19:16:55,551 - INFO - Processing page 72
+2025-06-01 19:16:56,215 - INFO - Successfully fetched page 72
+2025-06-01 19:16:56,265 - INFO - Found 24 potential listing containers on page 72
+2025-06-01 19:16:56,280 - INFO - Extracted 24 listings from page 72
+2025-06-01 19:16:56,280 - INFO - Waiting 4.1 seconds before next request
+2025-06-01 19:17:00,411 - INFO - Processing page 73
+2025-06-01 19:17:01,014 - INFO - Successfully fetched page 73
+2025-06-01 19:17:01,068 - INFO - Found 24 potential listing containers on page 73
+2025-06-01 19:17:01,082 - INFO - Extracted 24 listings from page 73
+2025-06-01 19:17:01,082 - INFO - Waiting 4.0 seconds before next request
+2025-06-01 19:17:05,099 - INFO - Processing page 74
+2025-06-01 19:17:05,611 - INFO - Successfully fetched page 74
+2025-06-01 19:17:05,659 - INFO - Found 24 potential listing containers on page 74
+2025-06-01 19:17:05,674 - INFO - Extracted 24 listings from page 74
+2025-06-01 19:17:05,674 - INFO - Waiting 5.7 seconds before next request
+2025-06-01 19:17:11,431 - INFO - Processing page 75
+2025-06-01 19:17:12,475 - INFO - Successfully fetched page 75
+2025-06-01 19:17:12,572 - INFO - Found 24 potential listing containers on page 75
+2025-06-01 19:17:12,583 - INFO - Extracted 24 listings from page 75
+2025-06-01 19:17:12,583 - INFO - Waiting 4.8 seconds before next request
+2025-06-01 19:17:17,403 - INFO - Processing page 76
+2025-06-01 19:17:18,108 - INFO - Successfully fetched page 76
+2025-06-01 19:17:18,157 - INFO - Found 24 potential listing containers on page 76
+2025-06-01 19:17:18,171 - INFO - Extracted 24 listings from page 76
+2025-06-01 19:17:18,171 - INFO - Waiting 5.8 seconds before next request
+2025-06-01 19:17:23,985 - INFO - Processing page 77
+2025-06-01 19:17:24,463 - INFO - Successfully fetched page 77
+2025-06-01 19:17:24,516 - INFO - Found 24 potential listing containers on page 77
+2025-06-01 19:17:24,532 - INFO - Extracted 24 listings from page 77
+2025-06-01 19:17:24,532 - INFO - Waiting 5.6 seconds before next request
+2025-06-01 19:17:30,113 - INFO - Processing page 78
+2025-06-01 19:17:30,595 - INFO - Successfully fetched page 78
+2025-06-01 19:17:30,648 - INFO - Found 24 potential listing containers on page 78
+2025-06-01 19:17:30,662 - INFO - Extracted 24 listings from page 78
+2025-06-01 19:17:30,662 - INFO - Waiting 5.1 seconds before next request
+2025-06-01 19:17:35,759 - INFO - Processing page 79
+2025-06-01 19:17:36,339 - INFO - Successfully fetched page 79
+2025-06-01 19:17:36,389 - INFO - Found 24 potential listing containers on page 79
+2025-06-01 19:17:36,404 - INFO - Extracted 24 listings from page 79
+2025-06-01 19:17:36,404 - INFO - Waiting 3.9 seconds before next request
+2025-06-01 19:17:40,275 - INFO - Processing page 80
+2025-06-01 19:17:40,971 - INFO - Successfully fetched page 80
+2025-06-01 19:17:41,061 - INFO - Found 24 potential listing containers on page 80
+2025-06-01 19:17:41,072 - INFO - Extracted 24 listings from page 80
+2025-06-01 19:17:41,072 - INFO - Waiting 4.1 seconds before next request
+2025-06-01 19:17:45,156 - INFO - Processing page 81
+2025-06-01 19:17:45,635 - INFO - Successfully fetched page 81
+2025-06-01 19:17:45,696 - INFO - Found 24 potential listing containers on page 81
+2025-06-01 19:17:45,711 - INFO - Extracted 24 listings from page 81
+2025-06-01 19:17:45,711 - INFO - Waiting 5.1 seconds before next request
+2025-06-01 19:17:50,843 - INFO - Processing page 82
+2025-06-01 19:17:51,604 - INFO - Successfully fetched page 82
+2025-06-01 19:17:51,651 - INFO - Found 24 potential listing containers on page 82
+2025-06-01 19:17:51,665 - INFO - Extracted 24 listings from page 82
+2025-06-01 19:17:51,665 - INFO - Waiting 4.3 seconds before next request
+2025-06-01 19:17:55,927 - INFO - Processing page 83
+2025-06-01 19:17:56,617 - INFO - Successfully fetched page 83
+2025-06-01 19:17:56,666 - INFO - Found 24 potential listing containers on page 83
+2025-06-01 19:17:56,680 - INFO - Extracted 24 listings from page 83
+2025-06-01 19:17:56,680 - INFO - Waiting 5.5 seconds before next request
+2025-06-01 19:18:02,142 - INFO - Processing page 84
+2025-06-01 19:18:02,555 - INFO - Successfully fetched page 84
+2025-06-01 19:18:02,602 - INFO - Found 24 potential listing containers on page 84
+2025-06-01 19:18:02,616 - INFO - Extracted 24 listings from page 84
+2025-06-01 19:18:02,616 - INFO - Waiting 4.9 seconds before next request
+2025-06-01 19:18:07,502 - INFO - Processing page 85
+2025-06-01 19:18:07,958 - INFO - Successfully fetched page 85
+2025-06-01 19:18:08,005 - INFO - Found 24 potential listing containers on page 85
+2025-06-01 19:18:08,020 - INFO - Extracted 24 listings from page 85
+2025-06-01 19:18:08,020 - INFO - Waiting 3.6 seconds before next request
+2025-06-01 19:18:11,627 - INFO - Processing page 86
+2025-06-01 19:18:12,153 - INFO - Successfully fetched page 86
+2025-06-01 19:18:12,244 - INFO - Found 24 potential listing containers on page 86
+2025-06-01 19:18:12,255 - INFO - Extracted 24 listings from page 86
+2025-06-01 19:18:12,255 - INFO - Waiting 3.0 seconds before next request
+2025-06-01 19:18:15,267 - INFO - Processing page 87
+2025-06-01 19:18:15,866 - INFO - Successfully fetched page 87
+2025-06-01 19:18:15,914 - INFO - Found 24 potential listing containers on page 87
+2025-06-01 19:18:15,928 - INFO - Extracted 24 listings from page 87
+2025-06-01 19:18:15,928 - INFO - Waiting 3.0 seconds before next request
+2025-06-01 19:18:18,966 - INFO - Processing page 88
+2025-06-01 19:18:19,965 - INFO - Successfully fetched page 88
+2025-06-01 19:18:20,019 - INFO - Found 24 potential listing containers on page 88
+2025-06-01 19:18:20,033 - INFO - Extracted 24 listings from page 88
+2025-06-01 19:18:20,033 - INFO - Waiting 5.5 seconds before next request
+2025-06-01 19:18:25,525 - INFO - Processing page 89
+2025-06-01 19:18:26,442 - INFO - Successfully fetched page 89
+2025-06-01 19:18:26,493 - INFO - Found 24 potential listing containers on page 89
+2025-06-01 19:18:26,507 - INFO - Extracted 24 listings from page 89
+2025-06-01 19:18:26,507 - INFO - Waiting 3.8 seconds before next request
+2025-06-01 19:18:30,280 - INFO - Processing page 90
+2025-06-01 19:18:30,590 - INFO - Successfully fetched page 90
+2025-06-01 19:18:30,638 - INFO - Found 24 potential listing containers on page 90
+2025-06-01 19:18:30,652 - INFO - Extracted 24 listings from page 90
+2025-06-01 19:18:30,652 - INFO - Waiting 5.2 seconds before next request
+2025-06-01 19:18:35,891 - INFO - Processing page 91
+2025-06-01 19:18:36,598 - INFO - Successfully fetched page 91
+2025-06-01 19:18:36,695 - INFO - Found 24 potential listing containers on page 91
+2025-06-01 19:18:36,706 - INFO - Extracted 24 listings from page 91
+2025-06-01 19:18:36,706 - INFO - Waiting 5.8 seconds before next request
+2025-06-01 19:18:42,492 - INFO - Processing page 92
+2025-06-01 19:18:43,210 - INFO - Successfully fetched page 92
+2025-06-01 19:18:43,264 - INFO - Found 24 potential listing containers on page 92
+2025-06-01 19:18:43,278 - INFO - Extracted 24 listings from page 92
+2025-06-01 19:18:43,278 - INFO - Waiting 4.9 seconds before next request
+2025-06-01 19:18:48,223 - INFO - Processing page 93
+2025-06-01 19:18:49,148 - INFO - Successfully fetched page 93
+2025-06-01 19:18:49,197 - INFO - Found 24 potential listing containers on page 93
+2025-06-01 19:18:49,211 - INFO - Extracted 24 listings from page 93
+2025-06-01 19:18:49,211 - INFO - Waiting 3.0 seconds before next request
+2025-06-01 19:18:52,231 - INFO - Processing page 94
+2025-06-01 19:18:52,836 - INFO - Successfully fetched page 94
+2025-06-01 19:18:52,887 - INFO - Found 24 potential listing containers on page 94
+2025-06-01 19:18:52,902 - INFO - Extracted 24 listings from page 94
+2025-06-01 19:18:52,902 - INFO - Waiting 3.3 seconds before next request
+2025-06-01 19:18:56,222 - INFO - Processing page 95
+2025-06-01 19:18:56,716 - INFO - Successfully fetched page 95
+2025-06-01 19:18:56,770 - INFO - Found 24 potential listing containers on page 95
+2025-06-01 19:18:56,784 - INFO - Extracted 24 listings from page 95
+2025-06-01 19:18:56,784 - INFO - Waiting 3.4 seconds before next request
+2025-06-01 19:19:00,190 - INFO - Processing page 96
+2025-06-01 19:19:00,599 - INFO - Successfully fetched page 96
+2025-06-01 19:19:00,696 - INFO - Found 24 potential listing containers on page 96
+2025-06-01 19:19:00,708 - INFO - Extracted 24 listings from page 96
+2025-06-01 19:19:00,708 - INFO - Waiting 5.9 seconds before next request
+2025-06-01 19:19:06,619 - INFO - Processing page 97
+2025-06-01 19:19:07,374 - INFO - Successfully fetched page 97
+2025-06-01 19:19:07,424 - INFO - Found 24 potential listing containers on page 97
+2025-06-01 19:19:07,438 - INFO - Extracted 24 listings from page 97
+2025-06-01 19:19:07,438 - INFO - Waiting 3.9 seconds before next request
+2025-06-01 19:19:11,363 - INFO - Processing page 98
+2025-06-01 19:19:11,794 - INFO - Successfully fetched page 98
+2025-06-01 19:19:11,843 - INFO - Found 24 potential listing containers on page 98
+2025-06-01 19:19:11,855 - INFO - Extracted 24 listings from page 98
+2025-06-01 19:19:11,855 - INFO - Waiting 4.7 seconds before next request
+2025-06-01 19:19:16,569 - INFO - Processing page 99
+2025-06-01 19:19:17,055 - INFO - Successfully fetched page 99
+2025-06-01 19:19:17,104 - INFO - Found 24 potential listing containers on page 99
+2025-06-01 19:19:17,118 - INFO - Extracted 24 listings from page 99
+2025-06-01 19:19:17,118 - INFO - Waiting 5.5 seconds before next request
+2025-06-01 19:19:22,604 - INFO - Processing page 100
+2025-06-01 19:19:22,971 - INFO - Successfully fetched page 100
+2025-06-01 19:19:22,991 - INFO - Found 4 potential listing containers on page 100
+2025-06-01 19:19:22,994 - INFO - Extracted 4 listings from page 100
+2025-06-01 19:19:23,016 - INFO - Data saved to mclaren_listings_20250601_191922.csv
+2025-06-01 19:20:56,135 - INFO - Successfully fetched page 1
+2025-06-01 19:20:56,185 - INFO - Found 24 potential listing containers on page 1
+2025-06-01 19:39:49,911 - INFO - Robots.txt check: Can fetch search page: True
+2025-06-01 19:39:55,139 - INFO - Successfully fetched page 1
+2025-06-01 19:39:55,197 - INFO - Detected 100 total pages, will scrape 100
+2025-06-01 19:39:55,237 - INFO - Found 24 potential listing containers on page 1
+2025-06-01 19:39:59,038 - INFO - Successfully fetched page 2
+2025-06-01 19:39:59,109 - INFO - Found 24 potential listing containers on page 2
+2025-06-01 19:39:59,127 - INFO - Extracted 24 listings from page 2
+2025-06-01 19:40:08,559 - INFO - Successfully fetched page 35
+2025-06-01 19:40:08,610 - INFO - Found 24 potential listing containers on page 35
+2025-06-01 19:40:08,630 - INFO - Extracted 24 listings from page 35
+2025-06-01 19:40:24,653 - INFO - Successfully fetched page 68
+2025-06-01 19:40:24,707 - INFO - Found 24 potential listing containers on page 68
+2025-06-01 19:40:24,729 - INFO - Extracted 24 listings from page 68
+2025-06-01 19:40:28,324 - INFO - Successfully fetched page 3
+2025-06-01 19:40:28,371 - INFO - Found 24 potential listing containers on page 3
+2025-06-01 19:40:28,391 - INFO - Extracted 24 listings from page 3
+2025-06-01 19:41:04,694 - INFO - Robots.txt check: Can fetch search page: True
+2025-06-01 19:41:08,697 - INFO - Successfully fetched page 1
+2025-06-01 19:41:08,758 - INFO - Detected 100 total pages, will scrape 100
+2025-06-01 19:41:08,798 - INFO - Found 24 potential listing containers on page 1
+2025-06-01 19:41:12,876 - INFO - Successfully fetched page 2
+2025-06-01 19:41:12,943 - INFO - Found 24 potential listing containers on page 2
+2025-06-01 19:41:12,961 - INFO - Extracted 24 listings from page 2
+2025-06-01 19:41:19,218 - INFO - Successfully fetched page 35
+2025-06-01 19:41:19,272 - INFO - Found 24 potential listing containers on page 35
+2025-06-01 19:41:19,293 - INFO - Extracted 24 listings from page 35
+2025-06-01 19:41:33,556 - INFO - Successfully fetched page 68
+2025-06-01 19:41:33,611 - INFO - Found 24 potential listing containers on page 68
+2025-06-01 19:41:33,634 - INFO - Extracted 24 listings from page 68
+2025-06-01 19:41:36,831 - INFO - Successfully fetched page 3
+2025-06-01 19:41:36,881 - INFO - Found 24 potential listing containers on page 3
+2025-06-01 19:41:36,902 - INFO - Extracted 24 listings from page 3
+2025-06-01 19:41:43,180 - INFO - Successfully fetched page 36
+2025-06-01 19:41:43,231 - INFO - Found 24 potential listing containers on page 36
+2025-06-01 19:41:43,254 - INFO - Extracted 24 listings from page 36
+2025-06-01 19:41:56,880 - INFO - Successfully fetched page 69
+2025-06-01 19:41:56,954 - INFO - Found 24 potential listing containers on page 69
+2025-06-01 19:41:56,973 - INFO - Extracted 24 listings from page 69
+2025-06-01 19:42:00,286 - INFO - Successfully fetched page 4
+2025-06-01 19:42:00,336 - INFO - Found 24 potential listing containers on page 4
+2025-06-01 19:42:00,356 - INFO - Extracted 24 listings from page 4
+2025-06-01 19:42:06,937 - INFO - Successfully fetched page 37
+2025-06-01 19:42:07,019 - INFO - Found 24 potential listing containers on page 37
+2025-06-01 19:42:07,038 - INFO - Extracted 24 listings from page 37
+2025-06-01 19:42:20,967 - INFO - Successfully fetched page 70
+2025-06-01 19:42:21,017 - INFO - Found 24 potential listing containers on page 70
+2025-06-01 19:42:21,039 - INFO - Extracted 24 listings from page 70
+2025-06-01 19:42:24,297 - INFO - Successfully fetched page 5
+2025-06-01 19:42:24,352 - INFO - Found 24 potential listing containers on page 5
+2025-06-01 19:42:24,373 - INFO - Extracted 24 listings from page 5
+2025-06-01 19:42:31,001 - INFO - Successfully fetched page 38
+2025-06-01 19:42:31,084 - INFO - Found 24 potential listing containers on page 38
+2025-06-01 19:42:31,103 - INFO - Extracted 24 listings from page 38
+2025-06-01 19:42:44,928 - INFO - Successfully fetched page 71
+2025-06-01 19:42:44,980 - INFO - Found 24 potential listing containers on page 71
+2025-06-01 19:42:45,002 - INFO - Extracted 24 listings from page 71
+2025-06-01 19:42:48,615 - INFO - Successfully fetched page 6
+2025-06-01 19:42:48,663 - INFO - Found 24 potential listing containers on page 6
+2025-06-01 19:42:48,684 - INFO - Extracted 24 listings from page 6
+2025-06-01 19:42:55,075 - INFO - Successfully fetched page 39
+2025-06-01 19:42:55,128 - INFO - Found 24 potential listing containers on page 39
+2025-06-01 19:42:55,150 - INFO - Extracted 24 listings from page 39
+2025-06-01 19:43:08,748 - INFO - Successfully fetched page 72
+2025-06-01 19:43:08,801 - INFO - Found 24 potential listing containers on page 72
+2025-06-01 19:43:08,823 - INFO - Extracted 24 listings from page 72
+2025-06-01 19:43:12,169 - INFO - Successfully fetched page 7
+2025-06-01 19:43:12,253 - INFO - Found 24 potential listing containers on page 7
+2025-06-01 19:43:12,272 - INFO - Extracted 24 listings from page 7
+2025-06-01 19:43:18,927 - INFO - Successfully fetched page 40
+2025-06-01 19:43:18,981 - INFO - Found 24 potential listing containers on page 40
+2025-06-01 19:43:19,003 - INFO - Extracted 24 listings from page 40
+2025-06-01 19:43:32,796 - INFO - Successfully fetched page 73
+2025-06-01 19:43:32,846 - INFO - Found 24 potential listing containers on page 73
+2025-06-01 19:43:32,868 - INFO - Extracted 24 listings from page 73
+2025-06-01 19:43:36,335 - INFO - Successfully fetched page 8
+2025-06-01 19:43:36,390 - INFO - Found 24 potential listing containers on page 8
+2025-06-01 19:43:36,413 - INFO - Extracted 24 listings from page 8
+2025-06-01 19:43:42,430 - INFO - Successfully fetched page 41
+2025-06-01 19:43:42,480 - INFO - Found 24 potential listing containers on page 41
+2025-06-01 19:43:42,501 - INFO - Extracted 24 listings from page 41
+2025-06-01 19:43:56,815 - INFO - Successfully fetched page 74
+2025-06-01 19:43:56,899 - INFO - Found 24 potential listing containers on page 74
+2025-06-01 19:43:56,920 - INFO - Extracted 24 listings from page 74
+2025-06-01 19:43:59,785 - INFO - Successfully fetched page 9
+2025-06-01 19:43:59,828 - INFO - Found 24 potential listing containers on page 9
+2025-06-01 19:43:59,848 - INFO - Extracted 24 listings from page 9
+2025-06-01 19:44:06,709 - INFO - Successfully fetched page 42
+2025-06-01 19:44:06,758 - INFO - Found 24 potential listing containers on page 42
+2025-06-01 19:44:06,778 - INFO - Extracted 24 listings from page 42
+2025-06-01 19:44:20,880 - INFO - Successfully fetched page 75
+2025-06-01 19:44:20,933 - INFO - Found 24 potential listing containers on page 75
+2025-06-01 19:44:20,955 - INFO - Extracted 24 listings from page 75
+2025-06-01 19:44:24,046 - INFO - Successfully fetched page 10
+2025-06-01 19:44:24,097 - INFO - Found 24 potential listing containers on page 10
+2025-06-01 19:44:24,118 - INFO - Extracted 24 listings from page 10
+2025-06-01 19:44:30,508 - INFO - Successfully fetched page 43
+2025-06-01 19:44:30,591 - INFO - Found 24 potential listing containers on page 43
+2025-06-01 19:44:30,609 - INFO - Extracted 24 listings from page 43
+2025-06-01 19:44:44,574 - INFO - Successfully fetched page 76
+2025-06-01 19:44:44,625 - INFO - Found 24 potential listing containers on page 76
+2025-06-01 19:44:44,648 - INFO - Extracted 24 listings from page 76
+2025-06-01 19:44:47,815 - INFO - Successfully fetched page 11
+2025-06-01 19:44:47,868 - INFO - Found 24 potential listing containers on page 11
+2025-06-01 19:44:47,890 - INFO - Extracted 24 listings from page 11
+2025-06-01 19:44:54,392 - INFO - Successfully fetched page 44
+2025-06-01 19:44:54,446 - INFO - Found 24 potential listing containers on page 44
+2025-06-01 19:44:54,468 - INFO - Extracted 24 listings from page 44
+2025-06-01 19:45:08,460 - INFO - Successfully fetched page 77
+2025-06-01 19:45:08,514 - INFO - Found 24 potential listing containers on page 77
+2025-06-01 19:45:08,537 - INFO - Extracted 24 listings from page 77
+2025-06-01 19:45:11,740 - INFO - Successfully fetched page 12
+2025-06-01 19:45:11,827 - INFO - Found 24 potential listing containers on page 12
+2025-06-01 19:45:11,845 - INFO - Extracted 24 listings from page 12
+2025-06-01 19:45:18,391 - INFO - Successfully fetched page 45
+2025-06-01 19:45:18,443 - INFO - Found 24 potential listing containers on page 45
+2025-06-01 19:45:18,465 - INFO - Extracted 24 listings from page 45
+2025-06-01 19:45:32,357 - INFO - Successfully fetched page 78
+2025-06-01 19:45:32,409 - INFO - Found 24 potential listing containers on page 78
+2025-06-01 19:45:32,431 - INFO - Extracted 24 listings from page 78
+2025-06-01 19:45:35,904 - INFO - Successfully fetched page 13
+2025-06-01 19:45:35,950 - INFO - Found 24 potential listing containers on page 13
+2025-06-01 19:45:35,973 - INFO - Extracted 24 listings from page 13
+2025-06-01 19:45:42,395 - INFO - Successfully fetched page 46
+2025-06-01 19:45:42,447 - INFO - Found 24 potential listing containers on page 46
+2025-06-01 19:45:42,468 - INFO - Extracted 24 listings from page 46
+2025-06-01 19:45:56,113 - INFO - Successfully fetched page 79
+2025-06-01 19:45:56,200 - INFO - Found 24 potential listing containers on page 79
+2025-06-01 19:45:56,220 - INFO - Extracted 24 listings from page 79
+2025-06-01 19:45:59,495 - INFO - Successfully fetched page 14
+2025-06-01 19:45:59,549 - INFO - Found 24 potential listing containers on page 14
+2025-06-01 19:45:59,570 - INFO - Extracted 24 listings from page 14
+2025-06-01 19:46:06,139 - INFO - Successfully fetched page 47
+2025-06-01 19:46:06,184 - INFO - Found 24 potential listing containers on page 47
+2025-06-01 19:46:06,205 - INFO - Extracted 24 listings from page 47
+2025-06-01 19:46:20,897 - INFO - Successfully fetched page 80
+2025-06-01 19:46:20,945 - INFO - Found 24 potential listing containers on page 80
+2025-06-01 19:46:20,965 - INFO - Extracted 24 listings from page 80
+2025-06-01 19:46:23,658 - INFO - Successfully fetched page 15
+2025-06-01 19:46:23,743 - INFO - Found 24 potential listing containers on page 15
+2025-06-01 19:46:23,762 - INFO - Extracted 24 listings from page 15
+2025-06-01 19:46:30,213 - INFO - Successfully fetched page 48
+2025-06-01 19:46:30,260 - INFO - Found 24 potential listing containers on page 48
+2025-06-01 19:46:30,280 - INFO - Extracted 24 listings from page 48
+2025-06-01 19:46:44,075 - INFO - Successfully fetched page 81
+2025-06-01 19:46:44,123 - INFO - Found 24 potential listing containers on page 81
+2025-06-01 19:46:44,145 - INFO - Extracted 24 listings from page 81
+2025-06-01 19:46:47,815 - INFO - Successfully fetched page 16
+2025-06-01 19:46:47,855 - INFO - Found 24 potential listing containers on page 16
+2025-06-01 19:46:47,876 - INFO - Extracted 24 listings from page 16
+2025-06-01 19:46:53,972 - INFO - Successfully fetched page 49
+2025-06-01 19:46:54,024 - INFO - Found 24 potential listing containers on page 49
+2025-06-01 19:46:54,044 - INFO - Extracted 24 listings from page 49
+2025-06-01 19:47:07,916 - INFO - Successfully fetched page 82
+2025-06-01 19:47:07,997 - INFO - Found 24 potential listing containers on page 82
+2025-06-01 19:47:08,016 - INFO - Extracted 24 listings from page 82
+2025-06-01 19:47:11,378 - INFO - Successfully fetched page 17
+2025-06-01 19:47:11,418 - INFO - Found 24 potential listing containers on page 17
+2025-06-01 19:47:11,438 - INFO - Extracted 24 listings from page 17
+2025-06-01 19:47:18,103 - INFO - Successfully fetched page 50
+2025-06-01 19:47:18,151 - INFO - Found 24 potential listing containers on page 50
+2025-06-01 19:47:18,171 - INFO - Extracted 24 listings from page 50
+2025-06-01 19:47:31,980 - INFO - Successfully fetched page 83
+2025-06-01 19:47:32,027 - INFO - Found 24 potential listing containers on page 83
+2025-06-01 19:47:32,046 - INFO - Extracted 24 listings from page 83
+2025-06-01 19:47:35,411 - INFO - Successfully fetched page 18
+2025-06-01 19:47:35,460 - INFO - Found 24 potential listing containers on page 18
+2025-06-01 19:47:35,480 - INFO - Extracted 24 listings from page 18
+2025-06-01 19:47:41,596 - INFO - Successfully fetched page 51
+2025-06-01 19:47:41,677 - INFO - Found 24 potential listing containers on page 51
+2025-06-01 19:47:41,695 - INFO - Extracted 24 listings from page 51
+2025-06-01 19:47:55,687 - INFO - Successfully fetched page 84
+2025-06-01 19:47:55,734 - INFO - Found 24 potential listing containers on page 84
+2025-06-01 19:47:55,754 - INFO - Extracted 24 listings from page 84
+2025-06-01 19:47:59,189 - INFO - Successfully fetched page 19
+2025-06-01 19:47:59,232 - INFO - Found 24 potential listing containers on page 19
+2025-06-01 19:47:59,254 - INFO - Extracted 24 listings from page 19
+2025-06-01 19:48:05,812 - INFO - Successfully fetched page 52
+2025-06-01 19:48:05,858 - INFO - Found 24 potential listing containers on page 52
+2025-06-01 19:48:05,879 - INFO - Extracted 24 listings from page 52
+2025-06-01 19:48:20,569 - INFO - Successfully fetched page 85
+2025-06-01 19:48:20,614 - INFO - Found 24 potential listing containers on page 85
+2025-06-01 19:48:20,635 - INFO - Extracted 24 listings from page 85
+2025-06-01 19:48:23,323 - INFO - Successfully fetched page 20
+2025-06-01 19:48:23,407 - INFO - Found 24 potential listing containers on page 20
+2025-06-01 19:48:23,425 - INFO - Extracted 24 listings from page 20
+2025-06-01 19:48:32,610 - INFO - Successfully fetched page 53
+2025-06-01 19:48:32,656 - INFO - Found 24 potential listing containers on page 53
+2025-06-01 19:48:32,677 - INFO - Extracted 24 listings from page 53
+2025-06-01 19:48:44,203 - INFO - Successfully fetched page 86
+2025-06-01 19:48:44,249 - INFO - Found 24 potential listing containers on page 86
+2025-06-01 19:48:44,271 - INFO - Extracted 24 listings from page 86
+2025-06-01 19:48:47,157 - INFO - Successfully fetched page 21
+2025-06-01 19:48:47,207 - INFO - Found 24 potential listing containers on page 21
+2025-06-01 19:48:47,228 - INFO - Extracted 24 listings from page 21
+2025-06-01 19:48:53,383 - INFO - Successfully fetched page 54
+2025-06-01 19:48:53,427 - INFO - Found 24 potential listing containers on page 54
+2025-06-01 19:48:53,446 - INFO - Extracted 24 listings from page 54
+2025-06-01 19:49:07,895 - INFO - Successfully fetched page 87
+2025-06-01 19:49:07,974 - INFO - Found 24 potential listing containers on page 87
+2025-06-01 19:49:08,000 - INFO - Extracted 24 listings from page 87
+2025-06-01 19:49:11,010 - INFO - Successfully fetched page 22
+2025-06-01 19:49:11,064 - INFO - Found 24 potential listing containers on page 22
+2025-06-01 19:49:11,084 - INFO - Extracted 24 listings from page 22
+2025-06-01 19:49:17,438 - INFO - Successfully fetched page 55
+2025-06-01 19:49:17,481 - INFO - Found 24 potential listing containers on page 55
+2025-06-01 19:49:17,501 - INFO - Extracted 24 listings from page 55
+2025-06-01 19:49:31,674 - INFO - Successfully fetched page 88
+2025-06-01 19:49:31,728 - INFO - Found 24 potential listing containers on page 88
+2025-06-01 19:49:31,750 - INFO - Extracted 24 listings from page 88
+2025-06-01 19:49:34,748 - INFO - Successfully fetched page 23
+2025-06-01 19:49:34,803 - INFO - Found 24 potential listing containers on page 23
+2025-06-01 19:49:34,826 - INFO - Extracted 24 listings from page 23
+2025-06-01 19:49:41,707 - INFO - Successfully fetched page 56
+2025-06-01 19:49:41,810 - INFO - Found 24 potential listing containers on page 56
+2025-06-01 19:49:41,832 - INFO - Extracted 24 listings from page 56
+2025-06-01 19:49:55,908 - INFO - Successfully fetched page 89
+2025-06-01 19:49:55,958 - INFO - Found 24 potential listing containers on page 89
+2025-06-01 19:49:55,980 - INFO - Extracted 24 listings from page 89
+2025-06-01 19:49:58,706 - INFO - Successfully fetched page 24
+2025-06-01 19:49:58,757 - INFO - Found 24 potential listing containers on page 24
+2025-06-01 19:49:58,780 - INFO - Extracted 24 listings from page 24
+2025-06-01 19:50:05,125 - INFO - Successfully fetched page 57
+2025-06-01 19:50:05,175 - INFO - Found 24 potential listing containers on page 57
+2025-06-01 19:50:05,197 - INFO - Extracted 24 listings from page 57
+2025-06-01 19:50:20,516 - INFO - Successfully fetched page 90
+2025-06-01 19:50:20,562 - INFO - Found 24 potential listing containers on page 90
+2025-06-01 19:50:20,585 - INFO - Extracted 24 listings from page 90
+2025-06-01 19:50:22,484 - INFO - Successfully fetched page 25
+2025-06-01 19:50:22,576 - INFO - Found 24 potential listing containers on page 25
+2025-06-01 19:50:22,596 - INFO - Extracted 24 listings from page 25
+2025-06-01 19:50:29,223 - INFO - Successfully fetched page 58
+2025-06-01 19:50:29,276 - INFO - Found 24 potential listing containers on page 58
+2025-06-01 19:50:29,297 - INFO - Extracted 24 listings from page 58
+2025-06-01 19:50:43,475 - INFO - Successfully fetched page 91
+2025-06-01 19:50:43,523 - INFO - Found 24 potential listing containers on page 91
+2025-06-01 19:50:43,545 - INFO - Extracted 24 listings from page 91
+2025-06-01 19:50:46,548 - INFO - Successfully fetched page 26
+2025-06-01 19:50:46,605 - INFO - Found 24 potential listing containers on page 26
+2025-06-01 19:50:46,626 - INFO - Extracted 24 listings from page 26
+2025-06-01 19:50:53,477 - INFO - Successfully fetched page 59
+2025-06-01 19:50:53,531 - INFO - Found 24 potential listing containers on page 59
+2025-06-01 19:50:53,553 - INFO - Extracted 24 listings from page 59
+2025-06-01 19:51:07,622 - INFO - Successfully fetched page 92
+2025-06-01 19:51:07,720 - INFO - Found 24 potential listing containers on page 92
+2025-06-01 19:51:07,738 - INFO - Extracted 24 listings from page 92
+2025-06-01 19:51:10,334 - INFO - Successfully fetched page 27
+2025-06-01 19:51:10,387 - INFO - Found 24 potential listing containers on page 27
+2025-06-01 19:51:10,409 - INFO - Extracted 24 listings from page 27
+2025-06-01 19:51:17,454 - INFO - Successfully fetched page 60
+2025-06-01 19:51:17,507 - INFO - Found 24 potential listing containers on page 60
+2025-06-01 19:51:17,531 - INFO - Extracted 24 listings from page 60
+2025-06-01 19:51:31,175 - INFO - Successfully fetched page 93
+2025-06-01 19:51:31,229 - INFO - Found 24 potential listing containers on page 93
+2025-06-01 19:51:31,252 - INFO - Extracted 24 listings from page 93
+2025-06-01 19:51:34,711 - INFO - Successfully fetched page 28
+2025-06-01 19:51:34,762 - INFO - Found 24 potential listing containers on page 28
+2025-06-01 19:51:34,783 - INFO - Extracted 24 listings from page 28
+2025-06-01 19:51:41,210 - INFO - Successfully fetched page 61
+2025-06-01 19:51:41,299 - INFO - Found 24 potential listing containers on page 61
+2025-06-01 19:51:41,317 - INFO - Extracted 24 listings from page 61
+2025-06-01 19:51:55,190 - INFO - Successfully fetched page 94
+2025-06-01 19:51:55,239 - INFO - Found 24 potential listing containers on page 94
+2025-06-01 19:51:55,261 - INFO - Extracted 24 listings from page 94
+2025-06-01 19:51:58,805 - INFO - Successfully fetched page 29
+2025-06-01 19:51:58,860 - INFO - Found 24 potential listing containers on page 29
+2025-06-01 19:51:58,882 - INFO - Extracted 24 listings from page 29
+2025-06-01 19:52:05,789 - INFO - Successfully fetched page 62
+2025-06-01 19:52:05,841 - INFO - Found 24 potential listing containers on page 62
+2025-06-01 19:52:05,863 - INFO - Extracted 24 listings from page 62
+2025-06-01 19:52:19,100 - INFO - Successfully fetched page 95
+2025-06-01 19:52:19,152 - INFO - Found 24 potential listing containers on page 95
+2025-06-01 19:52:19,174 - INFO - Extracted 24 listings from page 95
+2025-06-01 19:52:22,780 - INFO - Successfully fetched page 30
+2025-06-01 19:52:22,871 - INFO - Found 24 potential listing containers on page 30
+2025-06-01 19:52:22,890 - INFO - Extracted 24 listings from page 30
+2025-06-01 19:52:29,239 - INFO - Successfully fetched page 63
+2025-06-01 19:52:29,291 - INFO - Found 24 potential listing containers on page 63
+2025-06-01 19:52:29,315 - INFO - Extracted 24 listings from page 63
+2025-06-01 19:52:43,163 - INFO - Successfully fetched page 96
+2025-06-01 19:52:43,209 - INFO - Found 24 potential listing containers on page 96
+2025-06-01 19:52:43,231 - INFO - Extracted 24 listings from page 96
+2025-06-01 19:52:46,236 - INFO - Successfully fetched page 31
+2025-06-01 19:52:46,289 - INFO - Found 24 potential listing containers on page 31
+2025-06-01 19:52:46,311 - INFO - Extracted 24 listings from page 31
+2025-06-01 19:52:52,688 - INFO - Successfully fetched page 64
+2025-06-01 19:52:52,739 - INFO - Found 24 potential listing containers on page 64
+2025-06-01 19:52:52,762 - INFO - Extracted 24 listings from page 64
+2025-06-01 19:53:07,331 - INFO - Successfully fetched page 97
+2025-06-01 19:53:07,415 - INFO - Found 24 potential listing containers on page 97
+2025-06-01 19:53:07,434 - INFO - Extracted 24 listings from page 97
+2025-06-01 19:53:10,264 - INFO - Successfully fetched page 32
+2025-06-01 19:53:10,318 - INFO - Found 24 potential listing containers on page 32
+2025-06-01 19:53:10,339 - INFO - Extracted 24 listings from page 32
+2025-06-01 19:53:16,828 - INFO - Successfully fetched page 65
+2025-06-01 19:53:16,877 - INFO - Found 24 potential listing containers on page 65
+2025-06-01 19:53:16,898 - INFO - Extracted 24 listings from page 65
+2025-06-01 19:53:30,963 - INFO - Successfully fetched page 98
+2025-06-01 19:53:31,016 - INFO - Found 24 potential listing containers on page 98
+2025-06-01 19:53:31,038 - INFO - Extracted 24 listings from page 98
+2025-06-01 19:53:34,679 - INFO - Successfully fetched page 33
+2025-06-01 19:53:34,734 - INFO - Found 24 potential listing containers on page 33
+2025-06-01 19:53:34,756 - INFO - Extracted 24 listings from page 33
+2025-06-01 19:53:40,524 - INFO - Successfully fetched page 66
+2025-06-01 19:53:40,617 - INFO - Found 24 potential listing containers on page 66
+2025-06-01 19:53:40,636 - INFO - Extracted 24 listings from page 66
+2025-06-01 19:53:54,343 - INFO - Successfully fetched page 99
+2025-06-01 19:53:54,396 - INFO - Found 24 potential listing containers on page 99
+2025-06-01 19:53:54,419 - INFO - Extracted 24 listings from page 99
+2025-06-01 19:53:58,223 - INFO - Successfully fetched page 34
+2025-06-01 19:53:58,272 - INFO - Found 24 potential listing containers on page 34
+2025-06-01 19:53:58,294 - INFO - Extracted 24 listings from page 34
+2025-06-01 19:54:04,453 - INFO - Successfully fetched page 67
+2025-06-01 19:54:04,507 - INFO - Found 24 potential listing containers on page 67
+2025-06-01 19:54:04,529 - INFO - Extracted 24 listings from page 67
+2025-06-01 19:54:18,572 - INFO - Successfully fetched page 100
+2025-06-01 19:54:18,594 - INFO - Found 4 potential listing containers on page 100
+2025-06-01 19:54:18,599 - INFO - Extracted 4 listings from page 100
+2025-06-01 19:54:18,647 - INFO - Data saved to mclaren_listings_enhanced_20250601_195418.csv
+2025-06-01 20:10:06,102 - INFO - Robots.txt check: Can fetch search page: True
+2025-06-01 20:10:07,769 - INFO - Successfully fetched page 1
+2025-06-01 20:10:07,826 - INFO - Detected 100 total pages, will scrape 100
+2025-06-01 20:10:07,867 - INFO - Found 24 potential listing containers on page 1
+2025-06-01 20:10:09,307 - INFO - Successfully fetched page 3
+2025-06-01 20:10:09,372 - INFO - Found 24 potential listing containers on page 3
+2025-06-01 20:10:09,393 - INFO - ✅ Page 3: 24 listings
+2025-06-01 20:10:09,515 - INFO - Successfully fetched page 5
+2025-06-01 20:10:09,567 - INFO - Found 24 potential listing containers on page 5
+2025-06-01 20:10:09,588 - INFO - ✅ Page 5: 24 listings
+2025-06-01 20:10:09,589 - INFO - Successfully fetched page 4
+2025-06-01 20:10:09,623 - INFO - Found 24 potential listing containers on page 4
+2025-06-01 20:10:09,641 - INFO - ✅ Page 4: 24 listings
+2025-06-01 20:10:09,750 - INFO - Successfully fetched page 2
+2025-06-01 20:10:09,796 - INFO - Found 24 potential listing containers on page 2
+2025-06-01 20:10:09,815 - INFO - ✅ Page 2: 24 listings
+2025-06-01 20:10:09,836 - INFO - Successfully fetched page 15
+2025-06-01 20:10:09,876 - INFO - Found 24 potential listing containers on page 15
+2025-06-01 20:10:09,896 - INFO - ✅ Page 15: 24 listings
+2025-06-01 20:10:10,227 - INFO - Successfully fetched page 12
+2025-06-01 20:10:10,228 - INFO - Successfully fetched page 11
+2025-06-01 20:10:10,235 - INFO - Successfully fetched page 13
+2025-06-01 20:10:10,354 - INFO - Found 24 potential listing containers on page 11
+2025-06-01 20:10:10,384 - INFO - Found 24 potential listing containers on page 13
+2025-06-01 20:10:10,415 - INFO - ✅ Page 11: 24 listings
+2025-06-01 20:10:10,420 - INFO - Found 24 potential listing containers on page 12
+2025-06-01 20:10:10,428 - INFO - ✅ Page 13: 24 listings
+2025-06-01 20:10:10,447 - INFO - ✅ Page 12: 24 listings
+2025-06-01 20:10:11,117 - INFO - Successfully fetched page 18
+2025-06-01 20:10:11,168 - INFO - Found 24 potential listing containers on page 18
+2025-06-01 20:10:11,187 - INFO - Successfully fetched page 17
+2025-06-01 20:10:11,192 - INFO - ✅ Page 18: 24 listings
+2025-06-01 20:10:11,228 - INFO - Found 24 potential listing containers on page 17
+2025-06-01 20:10:11,248 - INFO - ✅ Page 17: 24 listings
+2025-06-01 20:10:11,379 - INFO - Successfully fetched page 19
+2025-06-01 20:10:11,461 - INFO - Found 24 potential listing containers on page 19
+2025-06-01 20:10:11,481 - INFO - ✅ Page 19: 24 listings
+2025-06-01 20:10:11,726 - INFO - Successfully fetched page 65
+2025-06-01 20:10:11,775 - INFO - Found 24 potential listing containers on page 65
+2025-06-01 20:10:11,799 - INFO - ✅ Page 65: 24 listings
+2025-06-01 20:10:12,001 - INFO - Successfully fetched page 67
+2025-06-01 20:10:12,048 - INFO - Found 24 potential listing containers on page 67
+2025-06-01 20:10:12,071 - INFO - ✅ Page 67: 24 listings
+2025-06-01 20:10:12,277 - INFO - Successfully fetched page 69
+2025-06-01 20:10:12,325 - INFO - Found 24 potential listing containers on page 69
+2025-06-01 20:10:12,349 - INFO - ✅ Page 69: 24 listings
+2025-06-01 20:10:12,480 - INFO - Successfully fetched page 68
+2025-06-01 20:10:12,527 - INFO - Found 24 potential listing containers on page 68
+2025-06-01 20:10:12,549 - INFO - ✅ Page 68: 24 listings
+2025-06-01 20:10:12,682 - INFO - Successfully fetched page 16
+2025-06-01 20:10:12,762 - INFO - Found 24 potential listing containers on page 16
+2025-06-01 20:10:12,783 - INFO - ✅ Page 16: 24 listings
+2025-06-01 20:10:12,949 - INFO - Successfully fetched page 70
+2025-06-01 20:10:12,994 - INFO - Found 24 potential listing containers on page 70
+2025-06-01 20:10:13,016 - INFO - ✅ Page 70: 24 listings
+2025-06-01 20:10:13,229 - INFO - Successfully fetched page 14
+2025-06-01 20:10:13,278 - INFO - Found 24 potential listing containers on page 14
+2025-06-01 20:10:13,301 - INFO - ✅ Page 14: 24 listings
+2025-06-01 20:10:13,333 - INFO - Successfully fetched page 71
+2025-06-01 20:10:13,373 - INFO - Found 24 potential listing containers on page 71
+2025-06-01 20:10:13,395 - INFO - Successfully fetched page 66
+2025-06-01 20:10:13,395 - INFO - ✅ Page 71: 24 listings
+2025-06-01 20:10:13,430 - INFO - Found 24 potential listing containers on page 66
+2025-06-01 20:10:13,450 - INFO - ✅ Page 66: 24 listings
+2025-06-01 20:10:13,451 - INFO - Successfully fetched page 72
+2025-06-01 20:10:13,515 - INFO - Found 24 potential listing containers on page 72
+2025-06-01 20:10:13,534 - INFO - ✅ Page 72: 24 listings
+2025-06-01 20:10:13,877 - INFO - Successfully fetched page 73
+2025-06-01 20:10:13,930 - INFO - Found 24 potential listing containers on page 73
+2025-06-01 20:10:13,955 - INFO - ✅ Page 73: 24 listings
+2025-06-01 20:10:13,964 - INFO - Successfully fetched page 75
+2025-06-01 20:10:14,003 - INFO - Found 24 potential listing containers on page 75
+2025-06-01 20:10:14,023 - INFO - ✅ Page 75: 24 listings
+2025-06-01 20:10:14,059 - INFO - Successfully fetched page 74
+2025-06-01 20:10:14,096 - INFO - Found 24 potential listing containers on page 74
+2025-06-01 20:10:14,116 - INFO - ✅ Page 74: 24 listings
+2025-06-01 20:10:14,312 - INFO - Successfully fetched page 77
+2025-06-01 20:10:14,359 - INFO - Found 24 potential listing containers on page 77
+2025-06-01 20:10:14,383 - INFO - ✅ Page 77: 24 listings
+2025-06-01 20:10:14,479 - INFO - Successfully fetched page 76
+2025-06-01 20:10:14,559 - INFO - Found 24 potential listing containers on page 76
+2025-06-01 20:10:14,579 - INFO - ✅ Page 76: 24 listings
+2025-06-01 20:10:14,703 - INFO - Successfully fetched page 78
+2025-06-01 20:10:14,747 - INFO - Found 24 potential listing containers on page 78
+2025-06-01 20:10:14,768 - INFO - ✅ Page 78: 24 listings
+2025-06-01 20:10:15,143 - INFO - Successfully fetched page 81
+2025-06-01 20:10:15,143 - INFO - Successfully fetched page 82
+2025-06-01 20:10:15,214 - INFO - Found 24 potential listing containers on page 81
+2025-06-01 20:10:15,238 - INFO - Found 24 potential listing containers on page 82
+2025-06-01 20:10:15,272 - INFO - ✅ Page 82: 24 listings
+2025-06-01 20:10:15,272 - INFO - ✅ Page 81: 24 listings
+2025-06-01 20:10:15,324 - INFO - Successfully fetched page 79
+2025-06-01 20:10:15,362 - INFO - Found 24 potential listing containers on page 79
+2025-06-01 20:10:15,382 - INFO - ✅ Page 79: 24 listings
+2025-06-01 20:10:15,500 - INFO - Successfully fetched page 29
+2025-06-01 20:10:15,579 - INFO - Found 24 potential listing containers on page 29
+2025-06-01 20:10:15,599 - INFO - ✅ Page 29: 24 listings
+2025-06-01 20:10:15,764 - INFO - Successfully fetched page 30
+2025-06-01 20:10:15,804 - INFO - Found 24 potential listing containers on page 30
+2025-06-01 20:10:15,825 - INFO - ✅ Page 30: 24 listings
+2025-06-01 20:10:16,029 - INFO - Successfully fetched page 31
+2025-06-01 20:10:16,078 - INFO - Found 24 potential listing containers on page 31
+2025-06-01 20:10:16,102 - INFO - Successfully fetched page 32
+2025-06-01 20:10:16,103 - INFO - ✅ Page 31: 24 listings
+2025-06-01 20:10:16,140 - INFO - Found 24 potential listing containers on page 32
+2025-06-01 20:10:16,140 - INFO - Successfully fetched page 33
+2025-06-01 20:10:16,178 - INFO - ✅ Page 32: 24 listings
+2025-06-01 20:10:16,194 - INFO - Found 24 potential listing containers on page 33
+2025-06-01 20:10:16,214 - INFO - ✅ Page 33: 24 listings
+2025-06-01 20:10:16,225 - INFO - Successfully fetched page 34
+2025-06-01 20:10:16,290 - INFO - Found 24 potential listing containers on page 34
+2025-06-01 20:10:16,309 - INFO - ✅ Page 34: 24 listings
+2025-06-01 20:10:16,830 - INFO - Successfully fetched page 35
+2025-06-01 20:10:16,871 - INFO - Found 24 potential listing containers on page 35
+2025-06-01 20:10:16,893 - INFO - ✅ Page 35: 24 listings
+2025-06-01 20:10:16,893 - INFO - Successfully fetched page 37
+2025-06-01 20:10:16,932 - INFO - Found 24 potential listing containers on page 37
+2025-06-01 20:10:16,952 - INFO - ✅ Page 37: 24 listings
+2025-06-01 20:10:17,024 - INFO - Successfully fetched page 36
+2025-06-01 20:10:17,060 - INFO - Found 24 potential listing containers on page 36
+2025-06-01 20:10:17,081 - INFO - ✅ Page 36: 24 listings
+2025-06-01 20:10:17,244 - INFO - Successfully fetched page 39
+2025-06-01 20:10:17,322 - INFO - Found 24 potential listing containers on page 39
+2025-06-01 20:10:17,342 - INFO - ✅ Page 39: 24 listings
+2025-06-01 20:10:17,343 - INFO - Successfully fetched page 40
+2025-06-01 20:10:17,380 - INFO - Found 24 potential listing containers on page 40
+2025-06-01 20:10:17,399 - INFO - ✅ Page 40: 24 listings
+2025-06-01 20:10:17,430 - INFO - Successfully fetched page 41
+2025-06-01 20:10:17,467 - INFO - Found 24 potential listing containers on page 41
+2025-06-01 20:10:17,487 - INFO - ✅ Page 41: 24 listings
+2025-06-01 20:10:17,487 - INFO - Successfully fetched page 42
+2025-06-01 20:10:17,493 - INFO - Successfully fetched page 38
+2025-06-01 20:10:17,543 - INFO - Found 24 potential listing containers on page 42
+2025-06-01 20:10:17,563 - INFO - Found 24 potential listing containers on page 38
+2025-06-01 20:10:17,595 - INFO - ✅ Page 42: 24 listings
+2025-06-01 20:10:17,596 - INFO - ✅ Page 38: 24 listings
+2025-06-01 20:10:17,760 - INFO - Successfully fetched page 43
+2025-06-01 20:10:17,841 - INFO - Found 24 potential listing containers on page 43
+2025-06-01 20:10:17,861 - INFO - ✅ Page 43: 24 listings
+2025-06-01 20:10:18,233 - INFO - Successfully fetched page 44
+2025-06-01 20:10:18,274 - INFO - Found 24 potential listing containers on page 44
+2025-06-01 20:10:18,295 - INFO - ✅ Page 44: 24 listings
+2025-06-01 20:10:18,295 - INFO - Successfully fetched page 80
+2025-06-01 20:10:18,331 - INFO - Found 24 potential listing containers on page 80
+2025-06-01 20:10:18,353 - INFO - ✅ Page 80: 24 listings
+2025-06-01 20:10:18,354 - INFO - Successfully fetched page 46
+2025-06-01 20:10:18,379 - INFO - Successfully fetched page 45
+2025-06-01 20:10:18,390 - INFO - Found 24 potential listing containers on page 46
+2025-06-01 20:10:18,448 - INFO - ✅ Page 46: 24 listings
+2025-06-01 20:10:18,456 - INFO - Found 24 potential listing containers on page 45
+2025-06-01 20:10:18,477 - INFO - ✅ Page 45: 24 listings
+2025-06-01 20:10:18,739 - INFO - Successfully fetched page 83
+2025-06-01 20:10:18,830 - INFO - Found 24 potential listing containers on page 83
+2025-06-01 20:10:18,850 - INFO - ✅ Page 83: 24 listings
+2025-06-01 20:10:18,851 - INFO - Successfully fetched page 84
+2025-06-01 20:10:18,857 - INFO - Successfully fetched page 85
+2025-06-01 20:10:18,903 - INFO - Found 24 potential listing containers on page 84
+2025-06-01 20:10:18,926 - INFO - Found 24 potential listing containers on page 85
+2025-06-01 20:10:18,950 - INFO - ✅ Page 84: 24 listings
+2025-06-01 20:10:18,958 - INFO - ✅ Page 85: 24 listings
+2025-06-01 20:10:19,136 - INFO - Successfully fetched page 87
+2025-06-01 20:10:19,185 - INFO - Found 24 potential listing containers on page 87
+2025-06-01 20:10:19,208 - INFO - ✅ Page 87: 24 listings
+2025-06-01 20:10:19,208 - INFO - Successfully fetched page 86
+2025-06-01 20:10:19,245 - INFO - Found 24 potential listing containers on page 86
+2025-06-01 20:10:19,263 - INFO - ✅ Page 86: 24 listings
+2025-06-01 20:10:19,548 - INFO - Successfully fetched page 88
+2025-06-01 20:10:19,632 - INFO - Found 24 potential listing containers on page 88
+2025-06-01 20:10:19,653 - INFO - ✅ Page 88: 24 listings
+2025-06-01 20:10:19,721 - INFO - Successfully fetched page 90
+2025-06-01 20:10:19,763 - INFO - Found 24 potential listing containers on page 90
+2025-06-01 20:10:19,783 - INFO - Successfully fetched page 89
+2025-06-01 20:10:19,796 - INFO - ✅ Page 90: 24 listings
+2025-06-01 20:10:19,818 - INFO - Found 24 potential listing containers on page 89
+2025-06-01 20:10:19,838 - INFO - ✅ Page 89: 24 listings
+2025-06-01 20:10:19,910 - INFO - Successfully fetched page 91
+2025-06-01 20:10:19,947 - INFO - Found 24 potential listing containers on page 91
+2025-06-01 20:10:19,967 - INFO - ✅ Page 91: 24 listings
+2025-06-01 20:10:20,176 - INFO - Successfully fetched page 56
+2025-06-01 20:10:20,226 - INFO - Found 24 potential listing containers on page 56
+2025-06-01 20:10:20,251 - INFO - ✅ Page 56: 24 listings
+2025-06-01 20:10:20,508 - INFO - Successfully fetched page 59
+2025-06-01 20:10:20,600 - INFO - Found 24 potential listing containers on page 59
+2025-06-01 20:10:20,613 - INFO - Successfully fetched page 58
+2025-06-01 20:10:20,621 - INFO - ✅ Page 59: 24 listings
+2025-06-01 20:10:20,657 - INFO - Found 24 potential listing containers on page 58
+2025-06-01 20:10:20,676 - INFO - ✅ Page 58: 24 listings
+2025-06-01 20:10:20,889 - INFO - Successfully fetched page 61
+2025-06-01 20:10:20,937 - INFO - Found 24 potential listing containers on page 61
+2025-06-01 20:10:20,959 - INFO - ✅ Page 61: 24 listings
+2025-06-01 20:10:21,007 - INFO - Successfully fetched page 57
+2025-06-01 20:10:21,047 - INFO - Found 24 potential listing containers on page 57
+2025-06-01 20:10:21,068 - INFO - ✅ Page 57: 24 listings
+2025-06-01 20:10:21,107 - INFO - Successfully fetched page 60
+2025-06-01 20:10:21,146 - INFO - Found 24 potential listing containers on page 60
+2025-06-01 20:10:21,166 - INFO - ✅ Page 60: 24 listings
+2025-06-01 20:10:21,283 - INFO - Successfully fetched page 6
+2025-06-01 20:10:21,372 - INFO - Found 24 potential listing containers on page 6
+2025-06-01 20:10:21,392 - INFO - ✅ Page 6: 24 listings
+2025-06-01 20:10:21,454 - INFO - Successfully fetched page 63
+2025-06-01 20:10:21,494 - INFO - Found 24 potential listing containers on page 63
+2025-06-01 20:10:21,516 - INFO - ✅ Page 63: 24 listings
+2025-06-01 20:10:21,517 - INFO - Successfully fetched page 62
+2025-06-01 20:10:21,551 - INFO - Found 24 potential listing containers on page 62
+2025-06-01 20:10:21,571 - INFO - ✅ Page 62: 24 listings
+2025-06-01 20:10:21,619 - INFO - Successfully fetched page 64
+2025-06-01 20:10:21,658 - INFO - Found 24 potential listing containers on page 64
+2025-06-01 20:10:21,679 - INFO - ✅ Page 64: 24 listings
+2025-06-01 20:10:21,680 - INFO - Successfully fetched page 7
+2025-06-01 20:10:21,715 - INFO - Found 24 potential listing containers on page 7
+2025-06-01 20:10:21,735 - INFO - ✅ Page 7: 24 listings
+2025-06-01 20:10:21,891 - INFO - Successfully fetched page 8
+2025-06-01 20:10:21,974 - INFO - Found 24 potential listing containers on page 8
+2025-06-01 20:10:21,995 - INFO - ✅ Page 8: 24 listings
+2025-06-01 20:10:22,224 - INFO - Successfully fetched page 9
+2025-06-01 20:10:22,263 - INFO - Found 24 potential listing containers on page 9
+2025-06-01 20:10:22,283 - INFO - ✅ Page 9: 24 listings
+2025-06-01 20:10:22,455 - INFO - Successfully fetched page 20
+2025-06-01 20:10:22,498 - INFO - Found 24 potential listing containers on page 20
+2025-06-01 20:10:22,520 - INFO - ✅ Page 20: 24 listings
+2025-06-01 20:10:22,520 - INFO - Successfully fetched page 10
+2025-06-01 20:10:22,558 - INFO - Found 24 potential listing containers on page 10
+2025-06-01 20:10:22,578 - INFO - ✅ Page 10: 24 listings
+2025-06-01 20:10:22,801 - INFO - Successfully fetched page 22
+2025-06-01 20:10:22,850 - INFO - Found 24 potential listing containers on page 22
+2025-06-01 20:10:22,874 - INFO - ✅ Page 22: 24 listings
+2025-06-01 20:10:22,875 - INFO - Successfully fetched page 24
+2025-06-01 20:10:22,875 - INFO - Successfully fetched page 25
+2025-06-01 20:10:22,956 - INFO - Found 24 potential listing containers on page 24
+2025-06-01 20:10:22,978 - INFO - Found 24 potential listing containers on page 25
+2025-06-01 20:10:23,010 - INFO - ✅ Page 24: 24 listings
+2025-06-01 20:10:23,020 - INFO - Successfully fetched page 26
+2025-06-01 20:10:23,020 - INFO - ✅ Page 25: 24 listings
+2025-06-01 20:10:23,056 - INFO - Found 24 potential listing containers on page 26
+2025-06-01 20:10:23,075 - INFO - ✅ Page 26: 24 listings
+2025-06-01 20:10:23,099 - INFO - Successfully fetched page 23
+2025-06-01 20:10:23,134 - INFO - Found 24 potential listing containers on page 23
+2025-06-01 20:10:23,154 - INFO - ✅ Page 23: 24 listings
+2025-06-01 20:10:23,709 - INFO - Successfully fetched page 27
+2025-06-01 20:10:23,760 - INFO - Found 24 potential listing containers on page 27
+2025-06-01 20:10:23,784 - INFO - ✅ Page 27: 24 listings
+2025-06-01 20:10:24,049 - INFO - Successfully fetched page 47
+2025-06-01 20:10:24,140 - INFO - Found 24 potential listing containers on page 47
+2025-06-01 20:10:24,162 - INFO - ✅ Page 47: 24 listings
+2025-06-01 20:10:24,163 - INFO - Successfully fetched page 28
+2025-06-01 20:10:24,198 - INFO - Found 24 potential listing containers on page 28
+2025-06-01 20:10:24,218 - INFO - ✅ Page 28: 24 listings
+2025-06-01 20:10:24,368 - INFO - Successfully fetched page 52
+2025-06-01 20:10:24,415 - INFO - Found 24 potential listing containers on page 52
+2025-06-01 20:10:24,437 - INFO - ✅ Page 52: 24 listings
+2025-06-01 20:10:24,438 - INFO - Successfully fetched page 51
+2025-06-01 20:10:24,444 - INFO - Successfully fetched page 48
+2025-06-01 20:10:24,481 - INFO - Found 24 potential listing containers on page 51
+2025-06-01 20:10:24,493 - INFO - Successfully fetched page 21
+2025-06-01 20:10:24,585 - INFO - Found 24 potential listing containers on page 48
+2025-06-01 20:10:24,585 - INFO - ✅ Page 51: 24 listings
+2025-06-01 20:10:24,591 - INFO - Found 24 potential listing containers on page 21
+2025-06-01 20:10:24,591 - INFO - Successfully fetched page 50
+2025-06-01 20:10:24,630 - INFO - ✅ Page 21: 24 listings
+2025-06-01 20:10:24,630 - INFO - ✅ Page 48: 24 listings
+2025-06-01 20:10:24,667 - INFO - Found 24 potential listing containers on page 50
+2025-06-01 20:10:24,688 - INFO - ✅ Page 50: 24 listings
+2025-06-01 20:10:24,688 - INFO - Successfully fetched page 49
+2025-06-01 20:10:24,722 - INFO - Found 24 potential listing containers on page 49
+2025-06-01 20:10:24,742 - INFO - ✅ Page 49: 24 listings
+2025-06-01 20:10:24,843 - INFO - Successfully fetched page 53
+2025-06-01 20:10:24,880 - INFO - Found 24 potential listing containers on page 53
+2025-06-01 20:10:24,900 - INFO - ✅ Page 53: 24 listings
+2025-06-01 20:10:25,221 - INFO - Successfully fetched page 54
+2025-06-01 20:10:25,317 - INFO - Found 24 potential listing containers on page 54
+2025-06-01 20:10:25,337 - INFO - ✅ Page 54: 24 listings
+2025-06-01 20:10:25,449 - INFO - Successfully fetched page 55
+2025-06-01 20:10:25,494 - INFO - Found 24 potential listing containers on page 55
+2025-06-01 20:10:25,517 - INFO - ✅ Page 55: 24 listings
+2025-06-01 20:10:25,723 - INFO - Successfully fetched page 92
+2025-06-01 20:10:25,767 - INFO - Found 24 potential listing containers on page 92
+2025-06-01 20:10:25,791 - INFO - ✅ Page 92: 24 listings
+2025-06-01 20:10:26,294 - INFO - Successfully fetched page 96
+2025-06-01 20:10:26,344 - INFO - Found 24 potential listing containers on page 96
+2025-06-01 20:10:26,368 - INFO - ✅ Page 96: 24 listings
+2025-06-01 20:10:26,390 - INFO - Successfully fetched page 95
+2025-06-01 20:10:26,428 - INFO - Found 24 potential listing containers on page 95
+2025-06-01 20:10:26,448 - INFO - ✅ Page 95: 24 listings
+2025-06-01 20:10:26,569 - INFO - Successfully fetched page 99
+2025-06-01 20:10:26,644 - INFO - Found 24 potential listing containers on page 99
+2025-06-01 20:10:26,664 - INFO - ✅ Page 99: 24 listings
+2025-06-01 20:10:26,664 - INFO - Successfully fetched page 98
+2025-06-01 20:10:26,699 - INFO - Found 24 potential listing containers on page 98
+2025-06-01 20:10:26,719 - INFO - ✅ Page 98: 24 listings
+2025-06-01 20:10:26,719 - INFO - Successfully fetched page 97
+2025-06-01 20:10:26,742 - INFO - Successfully fetched page 100
+2025-06-01 20:10:26,760 - INFO - Found 24 potential listing containers on page 97
+2025-06-01 20:10:26,773 - INFO - Found 4 potential listing containers on page 100
+2025-06-01 20:10:26,787 - INFO - ✅ Page 97: 24 listings
+2025-06-01 20:10:26,791 - INFO - ✅ Page 100: 4 listings
+2025-06-01 20:10:26,791 - INFO - Successfully fetched page 93
+2025-06-01 20:10:26,825 - INFO - Found 24 potential listing containers on page 93
+2025-06-01 20:10:26,845 - INFO - ✅ Page 93: 24 listings
+2025-06-01 20:10:26,845 - INFO - Successfully fetched page 94
+2025-06-01 20:10:26,879 - INFO - Found 24 potential listing containers on page 94
+2025-06-01 20:10:26,898 - INFO - ✅ Page 94: 24 listings
+2025-06-01 20:10:26,962 - INFO - Data saved to mclaren_listings_final_20250601_201026.csv
